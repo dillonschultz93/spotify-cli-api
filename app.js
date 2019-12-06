@@ -1,5 +1,6 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
+// const fs = require('fs');
 const open = require('open');
 const db = require('./db/index');
 const config = require('./config/config');
@@ -64,6 +65,8 @@ const processPlaylists = async ({url, headers, json}) => {
   }));
 };
 
+// A function that maps through the user's playlist objects,
+// calls the Spotify API, and builds track objects for each object
 const getTracks = async (url) => {
   const trackData = await processPlaylists(url);
   return Promise.all(trackData.map(async (playlist) => {
@@ -95,7 +98,7 @@ const savePlaylist = async ({playlists, db}) => {
 
 // Initial statup of the CLI app
 
-const startApp = () => {
+const startApp = async () => {
   inquirer.prompt(initalPrompts).then((answers) => {
     if (answers.initial === 'Sign in to Spotify') {
       console.log('Redirecting to Spotify');
