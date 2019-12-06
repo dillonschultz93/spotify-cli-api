@@ -1,6 +1,6 @@
+const fs = require('fs');
 const inquirer = require('inquirer');
 const open = require('open');
-// const controller = require('./controllers/controller');
 const db = require('./db/index');
 const config = require('./config/config');
 const rp = require('request-promise');
@@ -10,20 +10,18 @@ const initalPrompts = {
   type: 'list',
   name: 'initial',
   message: 'What do you want to do?',
-  choices: ['Login', 'Refresh Tokens'],
+  choices: ['Sign in to Spotify', 'Exit'],
 };
 
 const readPlaylists = {
   type: 'list',
   name: 'readPlaylists',
-  message: 'Now that you have your tokens, what do you want to do?',
-  choices: ['Show my playlists', 'Exit'],
+  message: 'Now that you are signed in, what do you want to do?',
+  choices: ['Save my playlist data', 'Exit'],
 };
 
 // Global Variables
 let url;
-const userPlaylists = [];
-const parsedPlaylists = [];
 
 // Getting Spotify keys and create an initial url
 db.collection('spotify_credentials')
@@ -90,35 +88,39 @@ const getTracks = async (url) => {
   }));
 };
 
-const savePlaylist = async ({playlist, db}) => {
-  await db.collection('playlists')
-      .add({playlist});
+const savePlaylist = async ({playlists, db}) => {
+  await db.collection('playlists').doc('user_playlists')
+      .set({playlists});
 };
 
 // Initial statup of the CLI app
 
 const startApp = () => {
   inquirer.prompt(initalPrompts).then((answers) => {
-    if (answers.initial === 'Login') {
+    if (answers.initial === 'Sign in to Spotify') {
       console.log('Redirecting to Spotify');
+      console.log('----------------------');
+      console.log('Return to this terminal after signing in');
       open('http://localhost:8888/login/', {app: 'google chrome'});
       afterLogin();
     } else {
-      console.log('This will be coded later');
+      console.log('Goodbye!');
+      return;
     }
   });
 };
 
 const afterLogin = () => {
   inquirer.prompt(readPlaylists).then(async (answers) => {
-    if (answers.readPlaylists === 'Show my playlists') {
-      console.log('Getting playlist data...');
-      // controller.showPlaylists();
+    if (answers.readPlaylists === 'Save my playlist data') {
+      console.log('Fetching playlist data...');
+      console.log('Saving data to a .json file');
+      console.log('Saving data to the database');
       const parsedPlaylist = await getTracks(url);
-
-      require('fs').writeFileSync('playlist.json', JSON.stringify(parsedPlaylist, null, 2));
-      // await savePlaylist({playlist: parsedPlaylist, db});
-      // console.log('Saved!');
+      // Save data to a .json file and to the database
+      fs.writeFileSync('playlist.json', JSON.stringify(parsedPlaylist, null, 2));
+      await savePlaylist({playlists: parsedPlaylist, db});
+      console.log('Saved 💾');
     } else {
       console.log('Goodbye!');
       return;
