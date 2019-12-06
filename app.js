@@ -1,7 +1,6 @@
 const inquirer = require('inquirer');
 // const fs = require('fs');
 const open = require('open');
-// const controller = require('./controllers/controller');
 const db = require('./db/index');
 const config = require('./config/config');
 const rp = require('request-promise');
