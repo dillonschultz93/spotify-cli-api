@@ -669,74 +669,114 @@
     "playlist_name": "Punk Unleashed",
     "tracks": [
       {
-        "album": "Fashion Forward",
+        "album": "End of summer (now I know)",
         "artists": [
           {
-            "name": "Drakulas"
+            "name": "The Front Bottoms"
           }
         ],
-        "track_title": "Fashion Forward",
+        "track_title": "End of summer (now I know)",
         "track_index": 0
       },
       {
-        "album": "Get...Mendoza...",
+        "album": "[Untitled]",
         "artists": [
           {
-            "name": "Audio Karate"
+            "name": "mewithoutYou"
           }
         ],
-        "track_title": "Get...Mendoza...",
+        "track_title": "9:27a.m., 7/29",
         "track_index": 1
       },
       {
-        "album": "Morbid Stuff",
+        "album": "Freakin' U Out",
         "artists": [
           {
-            "name": "PUP"
+            "name": "Antarctigo Vespucci"
           }
         ],
-        "track_title": "Morbid Stuff",
+        "track_title": "Freakin' U Out",
         "track_index": 2
       },
       {
-        "album": "Losers",
+        "album": "Goo",
         "artists": [
           {
-            "name": "Spanish Love Songs"
+            "name": "Culture Abuse"
           }
         ],
-        "track_title": "Losers",
+        "track_title": "Goo",
         "track_index": 3
       },
       {
-        "album": "Youdon'tinspiremelikeyouusedto",
+        "album": "Natural, Everyday Degradation",
         "artists": [
           {
-            "name": "Telethon"
+            "name": "Remo Drive"
           }
         ],
-        "track_title": "Youdon'tinspiremelikeyouusedto",
+        "track_title": "The Grind",
         "track_index": 4
       },
       {
-        "album": "Spanners for Hands",
+        "album": "Somewhere City",
         "artists": [
           {
-            "name": "Roxy Girls"
+            "name": "Origami Angel"
           }
         ],
-        "track_title": "Spanners for Hands",
+        "track_title": "24 Hr Drive-Thru",
         "track_index": 5
       },
       {
-        "album": "Missing Parts",
+        "album": "Maladroit",
         "artists": [
           {
-            "name": "Nightmarathons"
+            "name": "PINE"
           }
         ],
-        "track_title": "Reset",
+        "track_title": "Maladroit",
         "track_index": 6
+      },
+      {
+        "album": "18 Summers",
+        "artists": [
+          {
+            "name": "Rome Hero Foxes"
+          }
+        ],
+        "track_title": "18 Summers",
+        "track_index": 7
+      },
+      {
+        "album": "Lucky for Some",
+        "artists": [
+          {
+            "name": "Macseal"
+          }
+        ],
+        "track_title": "Lucky for Some",
+        "track_index": 8
+      },
+      {
+        "album": "Endless",
+        "artists": [
+          {
+            "name": "Holding Patterns"
+          }
+        ],
+        "track_title": "No Accident",
+        "track_index": 9
+      },
+      {
+        "album": "Passion Fruit Tea",
+        "artists": [
+          {
+            "name": "Retirement Party"
+          }
+        ],
+        "track_title": "Passion Fruit Tea",
+        "track_index": 10
       },
       {
         "album": "Morbid Stuff",
@@ -746,97 +786,350 @@
           }
         ],
         "track_title": "Kids",
-        "track_index": 7
-      },
-      {
-        "album": "Defanged",
-        "artists": [
-          {
-            "name": "The Overjoyed"
-          }
-        ],
-        "track_title": "Defanged",
-        "track_index": 8
-      },
-      {
-        "album": "Cold War",
-        "artists": [
-          {
-            "name": "Divided Heaven"
-          }
-        ],
-        "track_title": "You Will Never Get Rid of This",
-        "track_index": 9
-      },
-      {
-        "album": "Losers",
-        "artists": [
-          {
-            "name": "Spanish Love Songs"
-          }
-        ],
-        "track_title": "(No) Reason to Believe",
-        "track_index": 10
-      },
-      {
-        "album": "The Wild Honey Pie Buzzsession",
-        "artists": [
-          {
-            "name": "Potty Mouth"
-          }
-        ],
-        "track_title": "Hang On Me - The Wild Honey Pie Buzzsession",
         "track_index": 11
       },
       {
-        "album": "Be Good",
+        "album": "Marely Barch",
         "artists": [
           {
-            "name": "Off With Their Heads"
+            "name": "Barely March"
           }
         ],
-        "track_title": "Disappear",
+        "track_title": "Thinking Emoji",
         "track_index": 12
       },
       {
-        "album": "Positive Rising: Part 1",
+        "album": "Green and Gray",
         "artists": [
           {
-            "name": "DZ Deathrays"
+            "name": "Pile"
           }
         ],
-        "track_title": "Still No Change",
+        "track_title": "Firewood",
         "track_index": 13
       },
       {
-        "album": "The Devil You Know",
+        "album": "Natural, Everyday Degradation",
         "artists": [
           {
-            "name": "The Coathangers"
+            "name": "Remo Drive"
           }
         ],
-        "track_title": "F the NRA",
+        "track_title": "Around the Sun",
         "track_index": 14
       },
       {
-        "album": "Sanctuary City",
+        "album": "Gen 3",
         "artists": [
           {
-            "name": "Signals Midwest"
+            "name": "Origami Angel"
           }
         ],
-        "track_title": "Sanctuary City",
+        "track_title": "Emerald",
         "track_index": 15
       },
       {
-        "album": "I Wanna",
+        "album": "Puppy Love",
         "artists": [
           {
-            "name": "Potty Mouth"
+            "name": "Mom Jeans."
           }
         ],
-        "track_title": "I Wanna",
+        "track_title": "season 9 ep 2-3",
         "track_index": 16
+      },
+      {
+        "album": "Vertigo",
+        "artists": [
+          {
+            "name": "Unturned"
+          }
+        ],
+        "track_title": "Vertigo",
+        "track_index": 17
+      },
+      {
+        "album": "Bay Dream",
+        "artists": [
+          {
+            "name": "Culture Abuse"
+          }
+        ],
+        "track_title": "Dip",
+        "track_index": 18
+      },
+      {
+        "album": "Lauren (Track 2)",
+        "artists": [
+          {
+            "name": "Prince Daddy & the Hyena"
+          }
+        ],
+        "track_title": "Lauren (Track 2)",
+        "track_index": 19
+      },
+      {
+        "album": "Super Enthusiast",
+        "artists": [
+          {
+            "name": "Macseal"
+          }
+        ],
+        "track_title": "Nothing's a Sure Thing, Shelly",
+        "track_index": 20
+      },
+      {
+        "album": "MODERN FEMALE ROCKSTAR",
+        "artists": [
+          {
+            "name": "The Sonder Bombs"
+          }
+        ],
+        "track_title": "Atom",
+        "track_index": 21
+      },
+      {
+        "album": "basking in the glow",
+        "artists": [
+          {
+            "name": "Oso Oso"
+          }
+        ],
+        "track_title": "wake up next to god",
+        "track_index": 22
+      },
+      {
+        "album": "Morbid Stuff",
+        "artists": [
+          {
+            "name": "PUP"
+          }
+        ],
+        "track_title": "Free At Last",
+        "track_index": 23
+      },
+      {
+        "album": "Natural, Everyday Extended Play",
+        "artists": [
+          {
+            "name": "Remo Drive"
+          }
+        ],
+        "track_title": "Romeo",
+        "track_index": 24
+      },
+      {
+        "album": "Friday Nights",
+        "artists": [
+          {
+            "name": "Ariel View"
+          }
+        ],
+        "track_title": "Friday Nights",
+        "track_index": 25
+      },
+      {
+        "album": "Peach",
+        "artists": [
+          {
+            "name": "Slothrust"
+          }
+        ],
+        "track_title": "Peach",
+        "track_index": 26
+      },
+      {
+        "album": "Wonderful",
+        "artists": [
+          {
+            "name": "Graduating Life"
+          }
+        ],
+        "track_title": "Wonderful",
+        "track_index": 27
+      },
+      {
+        "album": "Bummer",
+        "artists": [
+          {
+            "name": "Save Face"
+          }
+        ],
+        "track_title": "Bummer",
+        "track_index": 28
+      },
+      {
+        "album": "Pity Boy",
+        "artists": [
+          {
+            "name": "Mal Blum"
+          }
+        ],
+        "track_title": "See Me",
+        "track_index": 29
+      },
+      {
+        "album": "Dark Parking Lot",
+        "artists": [
+          {
+            "name": "Bonsai Trees"
+          }
+        ],
+        "track_title": "Dark Parking Lot",
+        "track_index": 30
+      },
+      {
+        "album": "Somewhere City",
+        "artists": [
+          {
+            "name": "Origami Angel"
+          }
+        ],
+        "track_title": "666 Flags",
+        "track_index": 31
+      },
+      {
+        "album": "Zerwee",
+        "artists": [
+          {
+            "name": "Billy Cobb"
+          }
+        ],
+        "track_title": "The Shell Shack",
+        "track_index": 32
+      },
+      {
+        "album": "Morbid Stuff",
+        "artists": [
+          {
+            "name": "PUP"
+          }
+        ],
+        "track_title": "Morbid Stuff",
+        "track_index": 33
+      },
+      {
+        "album": "Shelters",
+        "artists": [
+          {
+            "name": "Bars of Gold"
+          }
+        ],
+        "track_title": "Worthless Chorus",
+        "track_index": 34
+      },
+      {
+        "album": "Drug Phase",
+        "artists": [
+          {
+            "name": "Bad Luck"
+          }
+        ],
+        "track_title": "Wish We Still Talked",
+        "track_index": 35
+      },
+      {
+        "album": "C'mon & Smoke Me Up",
+        "artists": [
+          {
+            "name": "Prince Daddy & the Hyena"
+          }
+        ],
+        "track_title": "C'mon & Smoke Me Up",
+        "track_index": 36
+      },
+      {
+        "album": "Prison on a Hill",
+        "artists": [
+          {
+            "name": "Somos"
+          }
+        ],
+        "track_title": "Iron Heel",
+        "track_index": 37
+      },
+      {
+        "album": "Your New Old Apartment",
+        "artists": [
+          {
+            "name": "Signals Midwest"
+          },
+          {
+            "name": "Sincere Engineer"
+          }
+        ],
+        "track_title": "Your New Old Apartment",
+        "track_index": 38
+      },
+      {
+        "album": "Salt",
+        "artists": [
+          {
+            "name": "Blessed"
+          }
+        ],
+        "track_title": "Thought",
+        "track_index": 39
+      },
+      {
+        "album": "Are You Still Seeing Graig, the Orthodontist?",
+        "artists": [
+          {
+            "name": "Cliffdiver"
+          }
+        ],
+        "track_title": "Are You Still Seeing Graig, the Orthodontist?",
+        "track_index": 40
+      },
+      {
+        "album": "Drunk II",
+        "artists": [
+          {
+            "name": "Mannequin Pussy"
+          }
+        ],
+        "track_title": "Drunk II",
+        "track_index": 41
+      },
+      {
+        "album": "Kicker",
+        "artists": [
+          {
+            "name": "The Get Up Kids"
+          }
+        ],
+        "track_title": "I'm Sorry",
+        "track_index": 42
+      },
+      {
+        "album": "Talk",
+        "artists": [
+          {
+            "name": "Glacier Veins"
+          }
+        ],
+        "track_title": "Talk",
+        "track_index": 43
+      },
+      {
+        "album": "Happy Hour",
+        "artists": [
+          {
+            "name": "Halogens"
+          }
+        ],
+        "track_title": "O'Gorman",
+        "track_index": 44
+      },
+      {
+        "album": "Before You Fall Asleep",
+        "artists": [
+          {
+            "name": "Downhaul"
+          }
+        ],
+        "track_title": "Bedridden",
+        "track_index": 45
       },
       {
         "album": "Cursed",
@@ -846,30 +1139,187 @@
           }
         ],
         "track_title": "Cursed",
-        "track_index": 17
+        "track_index": 46
       },
       {
-        "album": "Hand-Me-Downs",
+        "album": "SLUFF",
         "artists": [
           {
-            "name": "Luke Seymoup"
-          },
-          {
-            "name": "Lisa de Angelis"
+            "name": "Naked Giants"
           }
         ],
-        "track_title": "Hand-Me-Downs",
-        "track_index": 18
+        "track_title": "SLUFF",
+        "track_index": 47
       },
       {
-        "album": "New Comedown",
+        "album": "Bad Form",
         "artists": [
           {
-            "name": "Plague Vendor"
+            "name": "Beket"
           }
         ],
-        "track_title": "New Comedown",
-        "track_index": 19
+        "track_title": "On the Left",
+        "track_index": 48
+      },
+      {
+        "album": "Ode To Jerry",
+        "artists": [
+          {
+            "name": "The Sidekicks"
+          }
+        ],
+        "track_title": "Ode To Jerry",
+        "track_index": 49
+      },
+      {
+        "album": "Sin Cuchillo",
+        "artists": [
+          {
+            "name": "Audio Karate"
+          }
+        ],
+        "track_title": "Sin Cuchillo",
+        "track_index": 50
+      },
+      {
+        "album": "Shelters",
+        "artists": [
+          {
+            "name": "Bars of Gold"
+          }
+        ],
+        "track_title": "Sometimes (Single Edit)",
+        "track_index": 51
+      },
+      {
+        "album": "Do Not Return Fire",
+        "artists": [
+          {
+            "name": "Flèche"
+          }
+        ],
+        "track_title": "Wait Sit Listen",
+        "track_index": 52
+      },
+      {
+        "album": "Cosmic Thrill Seekers",
+        "artists": [
+          {
+            "name": "Prince Daddy & the Hyena"
+          }
+        ],
+        "track_title": "Slip",
+        "track_index": 53
+      },
+      {
+        "album": "Pity Boy",
+        "artists": [
+          {
+            "name": "Mal Blum"
+          }
+        ],
+        "track_title": "I Don't Want To",
+        "track_index": 54
+      },
+      {
+        "album": "Drug",
+        "artists": [
+          {
+            "name": "Locals Only"
+          }
+        ],
+        "track_title": "Drug",
+        "track_index": 55
+      },
+      {
+        "album": "Turn Toward the Sun",
+        "artists": [
+          {
+            "name": "Spectral Fires"
+          }
+        ],
+        "track_title": "Starting Over",
+        "track_index": 56
+      },
+      {
+        "album": "Routine Maintenance",
+        "artists": [
+          {
+            "name": "Aaron West and The Roaring Twenties"
+          }
+        ],
+        "track_title": "Just Sign the Papers",
+        "track_index": 57
+      },
+      {
+        "album": "Last Building Burning",
+        "artists": [
+          {
+            "name": "Cloud Nothings"
+          }
+        ],
+        "track_title": "Another Way Of Life",
+        "track_index": 58
+      },
+      {
+        "album": "Break",
+        "artists": [
+          {
+            "name": "The Drew Thomson Foundation"
+          }
+        ],
+        "track_title": "Break",
+        "track_index": 59
+      },
+      {
+        "album": "Get...Mendoza...",
+        "artists": [
+          {
+            "name": "Audio Karate"
+          }
+        ],
+        "track_title": "Get...Mendoza...",
+        "track_index": 60
+      },
+      {
+        "album": "Shelters",
+        "artists": [
+          {
+            "name": "Bars of Gold"
+          }
+        ],
+        "track_title": "$20",
+        "track_index": 61
+      },
+      {
+        "album": "Losers",
+        "artists": [
+          {
+            "name": "Spanish Love Songs"
+          }
+        ],
+        "track_title": "Losers",
+        "track_index": 62
+      },
+      {
+        "album": "Fox",
+        "artists": [
+          {
+            "name": "Dogleg"
+          }
+        ],
+        "track_title": "Fox",
+        "track_index": 63
+      },
+      {
+        "album": "Cheer",
+        "artists": [
+          {
+            "name": "Drug Church"
+          }
+        ],
+        "track_title": "Unlicensed Hall Monitor",
+        "track_index": 64
       },
       {
         "album": "Would I Break My Heart Enough for You",
@@ -882,527 +1332,7 @@
           }
         ],
         "track_title": "Would I Break My Heart Enough for You",
-        "track_index": 20
-      },
-      {
-        "album": "Dark Parking Lot",
-        "artists": [
-          {
-            "name": "Bonsai Trees"
-          }
-        ],
-        "track_title": "Dark Parking Lot",
-        "track_index": 21
-      },
-      {
-        "album": "The Queue at the Chemists",
-        "artists": [
-          {
-            "name": "Cassels"
-          }
-        ],
-        "track_title": "The Queue at the Chemists",
-        "track_index": 22
-      },
-      {
-        "album": "Strays",
-        "artists": [
-          {
-            "name": "Radar State"
-          }
-        ],
-        "track_title": "Anywhere",
-        "track_index": 23
-      },
-      {
-        "album": "I Dream Guillotine",
-        "artists": [
-          {
-            "name": "IDLES"
-          }
-        ],
-        "track_title": "I Dream Guillotine",
-        "track_index": 24
-      },
-      {
-        "album": "Jumpstart",
-        "artists": [
-          {
-            "name": "42 King"
-          }
-        ],
-        "track_title": "Jumpstart",
-        "track_index": 25
-      },
-      {
-        "album": "Prison on a Hill",
-        "artists": [
-          {
-            "name": "Somos"
-          }
-        ],
-        "track_title": "Iron Heel",
-        "track_index": 26
-      },
-      {
-        "album": "I Don't Want to Die Tonight",
-        "artists": [
-          {
-            "name": "Love in October"
-          }
-        ],
-        "track_title": "I Don't Want to Die Tonight",
-        "track_index": 27
-      },
-      {
-        "album": "Bay Dream",
-        "artists": [
-          {
-            "name": "Culture Abuse"
-          }
-        ],
-        "track_title": "Dip",
-        "track_index": 28
-      },
-      {
-        "album": "Missing Parts",
-        "artists": [
-          {
-            "name": "Nightmarathons"
-          }
-        ],
-        "track_title": "Comeback",
-        "track_index": 29
-      },
-      {
-        "album": "St. Nazaire",
-        "artists": [
-          {
-            "name": "Pixies"
-          }
-        ],
-        "track_title": "St. Nazaire",
-        "track_index": 30
-      },
-      {
-        "album": "Before You Fall Asleep",
-        "artists": [
-          {
-            "name": "Downhaul"
-          }
-        ],
-        "track_title": "Bedridden",
-        "track_index": 31
-      },
-      {
-        "album": "Split",
-        "artists": [
-          {
-            "name": "Tiny Stills"
-          }
-        ],
-        "track_title": "Everything Is Going Great",
-        "track_index": 32
-      },
-      {
-        "album": "No Strange Cats...P.A.W",
-        "artists": [
-          {
-            "name": "Radkey"
-          }
-        ],
-        "track_title": "P.A.W",
-        "track_index": 33
-      },
-      {
-        "album": "Chris",
-        "artists": [
-          {
-            "name": "Big Nothing"
-          }
-        ],
-        "track_title": "Waste My Time",
-        "track_index": 34
-      },
-      {
-        "album": "I Hate Alternative Rock",
-        "artists": [
-          {
-            "name": "Beach Slang"
-          }
-        ],
-        "track_title": "I Hate Alternative Rock",
-        "track_index": 35
-      },
-      {
-        "album": "Running All the Way Home",
-        "artists": [
-          {
-            "name": "Spielbergs"
-          }
-        ],
-        "track_title": "Running All the Way Home",
-        "track_index": 36
-      },
-      {
-        "album": "Strangers Forever",
-        "artists": [
-          {
-            "name": "The Menzingers"
-          }
-        ],
-        "track_title": "Strangers Forever",
-        "track_index": 37
-      },
-      {
-        "album": "In the Spirit World Now",
-        "artists": [
-          {
-            "name": "Ceremony"
-          }
-        ],
-        "track_title": "Further I Was",
-        "track_index": 38
-      },
-      {
-        "album": "Chris",
-        "artists": [
-          {
-            "name": "Big Nothing"
-          }
-        ],
-        "track_title": "Real Name",
-        "track_index": 39
-      },
-      {
-        "album": "I'm so Tired",
-        "artists": [
-          {
-            "name": "The Friday Prophets"
-          }
-        ],
-        "track_title": "I'm so Tired",
-        "track_index": 40
-      },
-      {
-        "album": "Prehab",
-        "artists": [
-          {
-            "name": "Radolescent"
-          }
-        ],
-        "track_title": "Retina",
-        "track_index": 41
-      },
-      {
-        "album": "The Void",
-        "artists": [
-          {
-            "name": "Martha"
-          }
-        ],
-        "track_title": "The Void",
-        "track_index": 42
-      },
-      {
-        "album": "Peach",
-        "artists": [
-          {
-            "name": "Slothrust"
-          }
-        ],
-        "track_title": "Peach",
-        "track_index": 43
-      },
-      {
-        "album": "Hypochondriac",
-        "artists": [
-          {
-            "name": "The Frights"
-          }
-        ],
-        "track_title": "Over It",
-        "track_index": 44
-      },
-      {
-        "album": "Be Good",
-        "artists": [
-          {
-            "name": "Off With Their Heads"
-          }
-        ],
-        "track_title": "No Love",
-        "track_index": 45
-      },
-      {
-        "album": "L.A. Lately",
-        "artists": [
-          {
-            "name": "The Drew Thomson Foundation"
-          }
-        ],
-        "track_title": "L.A. Lately",
-        "track_index": 46
-      },
-      {
-        "album": "Tried & True",
-        "artists": [
-          {
-            "name": "Upset"
-          }
-        ],
-        "track_title": "Tried & True",
-        "track_index": 47
-      },
-      {
-        "album": "Coven",
-        "artists": [
-          {
-            "name": "Bird Shoes"
-          }
-        ],
-        "track_title": "Coven",
-        "track_index": 48
-      },
-      {
-        "album": "Amyl and The Sniffers",
-        "artists": [
-          {
-            "name": "Amyl and The Sniffers"
-          }
-        ],
-        "track_title": "Monsoon Rock",
-        "track_index": 49
-      },
-      {
-        "album": "Bad Form",
-        "artists": [
-          {
-            "name": "Beket"
-          }
-        ],
-        "track_title": "On the Left",
-        "track_index": 50
-      },
-      {
-        "album": "Morbid Stuff",
-        "artists": [
-          {
-            "name": "PUP"
-          }
-        ],
-        "track_title": "Free At Last",
-        "track_index": 51
-      },
-      {
-        "album": "Optimal Lifestyles",
-        "artists": [
-          {
-            "name": "Pkew Pkew Pkew"
-          }
-        ],
-        "track_title": "I Don't Matter At All",
-        "track_index": 52
-      },
-      {
-        "album": "Bad Luck Like Gold",
-        "artists": [
-          {
-            "name": "Heart Attack Kids"
-          }
-        ],
-        "track_title": "The Driver",
-        "track_index": 53
-      },
-      {
-        "album": "Freakin' U Out",
-        "artists": [
-          {
-            "name": "Antarctigo Vespucci"
-          }
-        ],
-        "track_title": "Freakin' U Out",
-        "track_index": 54
-      },
-      {
-        "album": "For Nothing",
-        "artists": [
-          {
-            "name": "FANGZ"
-          }
-        ],
-        "track_title": "Wastr",
-        "track_index": 55
-      },
-      {
-        "album": "Out of Space",
-        "artists": [
-          {
-            "name": "Real Sickies"
-          }
-        ],
-        "track_title": "Not a Lifer",
-        "track_index": 56
-      },
-      {
-        "album": "Billy",
-        "artists": [
-          {
-            "name": "Surfbort"
-          }
-        ],
-        "track_title": "Awake",
-        "track_index": 57
-      },
-      {
-        "album": "By Night",
-        "artists": [
-          {
-            "name": "Plague Vendor"
-          }
-        ],
-        "track_title": "Night Sweats",
-        "track_index": 58
-      },
-      {
-        "album": "Should've",
-        "artists": [
-          {
-            "name": "Dude York"
-          }
-        ],
-        "track_title": "Should've",
-        "track_index": 59
-      },
-      {
-        "album": "Catbrain",
-        "artists": [
-          {
-            "name": "Waco"
-          }
-        ],
-        "track_title": "Catbrain",
-        "track_index": 60
-      },
-      {
-        "album": "Yuzi",
-        "artists": [
-          {
-            "name": "The Burnt Tapes"
-          }
-        ],
-        "track_title": "Yuzi",
-        "track_index": 61
-      },
-      {
-        "album": "Amnesiatic",
-        "artists": [
-          {
-            "name": "Odd Robot"
-          }
-        ],
-        "track_title": "Schadenfreude",
-        "track_index": 62
-      },
-      {
-        "album": "Master Volume",
-        "artists": [
-          {
-            "name": "The Dirty Nil"
-          }
-        ],
-        "track_title": "Bathed In Light",
-        "track_index": 63
-      },
-      {
-        "album": "Meat Wave & Lifestyles Split",
-        "artists": [
-          {
-            "name": "Meat Wave"
-          }
-        ],
-        "track_title": "That's Alright",
-        "track_index": 64
-      },
-      {
-        "album": "Daytime TV",
-        "artists": [
-          {
-            "name": "Dear Seattle"
-          }
-        ],
-        "track_title": "Daytime TV",
         "track_index": 65
-      },
-      {
-        "album": "Cut & Stitch",
-        "artists": [
-          {
-            "name": "Petrol Girls"
-          }
-        ],
-        "track_title": "The Sound",
-        "track_index": 66
-      },
-      {
-        "album": "In Your Face",
-        "artists": [
-          {
-            "name": "The Dollyrots"
-          }
-        ],
-        "track_title": "In Your Face",
-        "track_index": 67
-      },
-      {
-        "album": "Get a Life",
-        "artists": [
-          {
-            "name": "Like Torches"
-          }
-        ],
-        "track_title": "Get a Life",
-        "track_index": 68
-      },
-      {
-        "album": "The Ditch",
-        "artists": [
-          {
-            "name": "Dave Hause"
-          }
-        ],
-        "track_title": "The Ditch",
-        "track_index": 69
-      },
-      {
-        "album": "In-Cog-Neat-O",
-        "artists": [
-          {
-            "name": "The Suck"
-          }
-        ],
-        "track_title": "#Youredead",
-        "track_index": 70
-      },
-      {
-        "album": "Crack & Wallop",
-        "artists": [
-          {
-            "name": "GoldTop"
-          }
-        ],
-        "track_title": "Crack & Wallop",
-        "track_index": 71
-      },
-      {
-        "album": "Last Building Burning",
-        "artists": [
-          {
-            "name": "Cloud Nothings"
-          }
-        ],
-        "track_title": "Another Way Of Life",
-        "track_index": 72
       },
       {
         "album": "Turn Away the Bad Thing",
@@ -1412,27 +1342,177 @@
           }
         ],
         "track_title": "Turn Away the Bad Thing",
+        "track_index": 66
+      },
+      {
+        "album": "Routine Maintenance",
+        "artists": [
+          {
+            "name": "Aaron West and The Roaring Twenties"
+          }
+        ],
+        "track_title": "Bury Me Anywhere Else",
+        "track_index": 67
+      },
+      {
+        "album": "Metropolis",
+        "artists": [
+          {
+            "name": "Single Mothers"
+          }
+        ],
+        "track_title": "Metropolis",
+        "track_index": 68
+      },
+      {
+        "album": "Big Ass Love / Take Away The Pain",
+        "artists": [
+          {
+            "name": "Angel Du$t"
+          }
+        ],
+        "track_title": "Big Ass Love",
+        "track_index": 69
+      },
+      {
+        "album": "Darkness, Together",
+        "artists": [
+          {
+            "name": "Lee Corey Oswald"
+          }
+        ],
+        "track_title": "Neighborhood",
+        "track_index": 70
+      },
+      {
+        "album": "I Don't Wanna",
+        "artists": [
+          {
+            "name": "America Part Two"
+          }
+        ],
+        "track_title": "I Don't Wanna",
+        "track_index": 71
+      },
+      {
+        "album": "At Your Own Risk",
+        "artists": [
+          {
+            "name": "Cliffdiver"
+          }
+        ],
+        "track_title": "Lost in Ikea",
+        "track_index": 72
+      },
+      {
+        "album": "Pity Boy",
+        "artists": [
+          {
+            "name": "Mal Blum"
+          }
+        ],
+        "track_title": "Not My Job",
         "track_index": 73
       },
       {
-        "album": "I Sold My Soul to the Devil When I Was 12",
+        "album": "Chris",
         "artists": [
           {
-            "name": "GRLwood"
+            "name": "Big Nothing"
           }
         ],
-        "track_title": "Get Shot",
+        "track_title": "Waste My Time",
         "track_index": 74
       },
       {
-        "album": "Copper Sky",
+        "album": "Flyer",
         "artists": [
           {
-            "name": "The Penske File"
+            "name": "Skating Polly"
           }
         ],
-        "track_title": "Copper Sky",
+        "track_title": "Flyer",
         "track_index": 75
+      },
+      {
+        "album": "Send You Off",
+        "artists": [
+          {
+            "name": "Say Anything"
+          }
+        ],
+        "track_title": "Send You Off",
+        "track_index": 76
+      },
+      {
+        "album": "Yarn",
+        "artists": [
+          {
+            "name": "McCafferty"
+          }
+        ],
+        "track_title": "Loser.",
+        "track_index": 77
+      },
+      {
+        "album": "Snares Like a Haircut",
+        "artists": [
+          {
+            "name": "No Age"
+          }
+        ],
+        "track_title": "Cruise Control",
+        "track_index": 78
+      },
+      {
+        "album": "This Too Won't Pass",
+        "artists": [
+          {
+            "name": "Can't Swim"
+          }
+        ],
+        "track_title": "What Have We Done?",
+        "track_index": 79
+      },
+      {
+        "album": "Drive EP",
+        "artists": [
+          {
+            "name": "Designosaur"
+          }
+        ],
+        "track_title": "Drive",
+        "track_index": 80
+      },
+      {
+        "album": "Godzilla 98' Sux!!!",
+        "artists": [
+          {
+            "name": "Arcadia Grey"
+          }
+        ],
+        "track_title": "Godzilla 98' Sux!!!",
+        "track_index": 81
+      },
+      {
+        "album": "Bad Tide",
+        "artists": [
+          {
+            "name": "Sik Oheso"
+          }
+        ],
+        "track_title": "Bad Tide",
+        "track_index": 82
+      },
+      {
+        "album": "Strangers Forever",
+        "artists": [
+          {
+            "name": "The Menzingers"
+          }
+        ],
+        "track_title": "Strangers Forever",
+        "track_index": 83
       },
       {
         "album": "Ship of Fools / This is a Song",
@@ -1442,187 +1522,27 @@
           }
         ],
         "track_title": "This is a Song",
-        "track_index": 76
-      },
-      {
-        "album": "This Could Be Okay",
-        "artists": [
-          {
-            "name": "Cold Wrecks"
-          }
-        ],
-        "track_title": "Long Island",
-        "track_index": 77
-      },
-      {
-        "album": "Salt",
-        "artists": [
-          {
-            "name": "Blessed"
-          }
-        ],
-        "track_title": "Thought",
-        "track_index": 78
-      },
-      {
-        "album": "Natural, Everyday Degradation",
-        "artists": [
-          {
-            "name": "Remo Drive"
-          }
-        ],
-        "track_title": "Around the Sun",
-        "track_index": 79
-      },
-      {
-        "album": "Leeches",
-        "artists": [
-          {
-            "name": "Re-Volts"
-          }
-        ],
-        "track_title": "Leeches",
-        "track_index": 80
-      },
-      {
-        "album": "Bummer",
-        "artists": [
-          {
-            "name": "Save Face"
-          }
-        ],
-        "track_title": "Bummer",
-        "track_index": 81
-      },
-      {
-        "album": "Ode To Jerry",
-        "artists": [
-          {
-            "name": "The Sidekicks"
-          }
-        ],
-        "track_title": "Ode To Jerry",
-        "track_index": 82
-      },
-      {
-        "album": "Cheer",
-        "artists": [
-          {
-            "name": "Drug Church"
-          }
-        ],
-        "track_title": "Unlicensed Hall Monitor",
-        "track_index": 83
-      },
-      {
-        "album": "Postcard",
-        "artists": [
-          {
-            "name": "Sundressed"
-          }
-        ],
-        "track_title": "Postcard",
         "track_index": 84
       },
       {
-        "album": "Hotel Last Resort",
+        "album": "Beside Myself",
         "artists": [
           {
-            "name": "Violent Femmes"
+            "name": "Basement"
           }
         ],
-        "track_title": "Not OK",
+        "track_title": "Disconnect",
         "track_index": 85
       },
       {
-        "album": "CBC Radio 3",
+        "album": "Oliver Appropriate",
         "artists": [
           {
-            "name": "Dumb"
+            "name": "Say Anything"
           }
         ],
-        "track_title": "CBC Radio 3",
+        "track_title": "Ew Jersey",
         "track_index": 86
-      },
-      {
-        "album": "Don’t You Think You’ve Had Enough?",
-        "artists": [
-          {
-            "name": "Bleached"
-          }
-        ],
-        "track_title": "Daydream",
-        "track_index": 87
-      },
-      {
-        "album": "Almost Free",
-        "artists": [
-          {
-            "name": "FIDLAR"
-          }
-        ],
-        "track_title": "Flake",
-        "track_index": 88
-      },
-      {
-        "album": "Green and Gray",
-        "artists": [
-          {
-            "name": "Pile"
-          }
-        ],
-        "track_title": "Firewood",
-        "track_index": 89
-      },
-      {
-        "album": "Power Chords",
-        "artists": [
-          {
-            "name": "Mike Krol"
-          }
-        ],
-        "track_title": "Power Chords",
-        "track_index": 90
-      },
-      {
-        "album": "I Sold My Soul to the Devil When I Was 12",
-        "artists": [
-          {
-            "name": "GRLwood"
-          }
-        ],
-        "track_title": "I Hate My Mom",
-        "track_index": 91
-      },
-      {
-        "album": "Bought to Rot",
-        "artists": [
-          {
-            "name": "Laura Jane Grace & the Devouring Mothers"
-          }
-        ],
-        "track_title": "China Beach",
-        "track_index": 92
-      },
-      {
-        "album": "End of summer (now I know)",
-        "artists": [
-          {
-            "name": "The Front Bottoms"
-          }
-        ],
-        "track_title": "End of summer (now I know)",
-        "track_index": 93
-      },
-      {
-        "album": "Lauren (Track 2)",
-        "artists": [
-          {
-            "name": "Prince Daddy & the Hyena"
-          }
-        ],
-        "track_title": "Lauren (Track 2)",
-        "track_index": 94
       },
       {
         "album": "Hard Pop",
@@ -1632,46 +1552,129 @@
           }
         ],
         "track_title": "Chimney Rock",
+        "track_index": 87
+      },
+      {
+        "album": "This Could Be Okay",
+        "artists": [
+          {
+            "name": "Cold Wrecks"
+          }
+        ],
+        "track_title": "January First",
+        "track_index": 88
+      },
+      {
+        "album": "Drug Phase",
+        "artists": [
+          {
+            "name": "Bad Luck"
+          }
+        ],
+        "track_title": "Impressive Depressive",
+        "track_index": 89
+      },
+      {
+        "album": "L.A. Lately",
+        "artists": [
+          {
+            "name": "The Drew Thomson Foundation"
+          }
+        ],
+        "track_title": "L.A. Lately",
+        "track_index": 90
+      },
+      {
+        "album": "Konami Code",
+        "artists": [
+          {
+            "name": "Arcadia Grey"
+          }
+        ],
+        "track_title": "Skrrt Cobain",
+        "track_index": 91
+      },
+      {
+        "album": "Embarrass You",
+        "artists": [
+          {
+            "name": "Stuck Out Here"
+          }
+        ],
+        "track_title": "Embarrass You",
+        "track_index": 92
+      },
+      {
+        "album": "Hypochondriac",
+        "artists": [
+          {
+            "name": "The Frights"
+          }
+        ],
+        "track_title": "Over It",
+        "track_index": 93
+      },
+      {
+        "album": "MPLS",
+        "artists": [
+          {
+            "name": "Beach Slang"
+          }
+        ],
+        "track_title": "AAA",
+        "track_index": 94
+      },
+      {
+        "album": "Power Chords",
+        "artists": [
+          {
+            "name": "Mike Krol"
+          }
+        ],
+        "track_title": "Power Chords",
         "track_index": 95
       },
       {
-        "album": "Hope This Reaches You",
+        "album": "Hand-Me-Downs",
         "artists": [
           {
-            "name": "West Means Home"
+            "name": "Luke Seymoup"
+          },
+          {
+            "name": "Lisa de Angelis"
           }
         ],
-        "track_title": "What Do You Have",
+        "track_title": "Hand-Me-Downs",
         "track_index": 96
       },
       {
-        "album": "Once a Pretty Liar",
+        "album": "How Long Do I Let It Go For?",
         "artists": [
           {
-            "name": "Connor Clark And The Matador Kings"
+            "name": "Telethon"
           }
         ],
-        "track_title": "Once a Pretty Liar",
+        "track_title": "How Long Do I Let It Go For?",
         "track_index": 97
       },
       {
-        "album": "Little Pamplemousse",
+        "album": "Color TV",
         "artists": [
           {
-            "name": "Tijuana Panthers"
+            "name": "Answering Machine"
           }
         ],
-        "track_title": "Little Pamplemousse",
+        "track_title": "Color TV",
         "track_index": 98
       },
       {
-        "album": "It Follows",
+        "album": "Titty Logic",
         "artists": [
           {
-            "name": "Gestures"
+            "name": "Sammi Lanzetta"
           }
         ],
-        "track_title": "It Follows",
+        "track_title": "Titty Logic",
         "track_index": 99
       }
     ]
@@ -4508,170 +4511,44 @@
     "playlist_name": "The Scene",
     "tracks": [
       {
-        "album": "Smile Wide",
+        "album": "One Day When We Are Young",
         "artists": [
           {
-            "name": "ROAM"
+            "name": "Mineral"
           }
         ],
-        "track_title": "Turn",
+        "track_title": "Your Body Is The World",
         "track_index": 0
       },
       {
-        "album": "October",
+        "album": "Map It Out",
         "artists": [
           {
-            "name": "Magnolia Park"
+            "name": "Macseal"
           }
         ],
-        "track_title": "October",
+        "track_title": "Golden Hour",
         "track_index": 1
       },
       {
-        "album": "Hold Me Close EP",
+        "album": "The Gang Goes on Tour",
         "artists": [
           {
-            "name": "Summer Heights"
+            "name": "Perspective, a Lovely Hand to Hold"
           }
         ],
-        "track_title": "Pens and Needles",
+        "track_title": "The Gang Goes on Tour",
         "track_index": 2
       },
       {
-        "album": "She's A God",
+        "album": "Fake Blood",
         "artists": [
           {
-            "name": "Neck Deep"
+            "name": "Heart Attack Man"
           }
         ],
-        "track_title": "She's A God",
+        "track_title": "Fake Blood",
         "track_index": 3
-      },
-      {
-        "album": "Fault Line",
-        "artists": [
-          {
-            "name": "Catch Fire"
-          }
-        ],
-        "track_title": "Fault Line",
-        "track_index": 4
-      },
-      {
-        "album": "Volatile",
-        "artists": [
-          {
-            "name": "Relic Hearts"
-          }
-        ],
-        "track_title": "Bloodhound for Oblivion",
-        "track_index": 5
-      },
-      {
-        "album": "Growing Up",
-        "artists": [
-          {
-            "name": "Highland"
-          }
-        ],
-        "track_title": "Growing Up",
-        "track_index": 6
-      },
-      {
-        "album": "Disappear",
-        "artists": [
-          {
-            "name": "Locket"
-          }
-        ],
-        "track_title": "Sleepwalker",
-        "track_index": 7
-      },
-      {
-        "album": "Meant Well",
-        "artists": [
-          {
-            "name": "Parting Ways"
-          }
-        ],
-        "track_title": "Sidestage",
-        "track_index": 8
-      },
-      {
-        "album": "Sunnyland B-Sides",
-        "artists": [
-          {
-            "name": "Mayday Parade"
-          }
-        ],
-        "track_title": "Turn My Back",
-        "track_index": 9
-      },
-      {
-        "album": "Karma Owes Me a Lifetime of Happiness",
-        "artists": [
-          {
-            "name": "Catch Fire"
-          }
-        ],
-        "track_title": "Stabbing Pains",
-        "track_index": 10
-      },
-      {
-        "album": "Heartbeat",
-        "artists": [
-          {
-            "name": "Point North"
-          }
-        ],
-        "track_title": "Heartbeat",
-        "track_index": 11
-      },
-      {
-        "album": "Fragile",
-        "artists": [
-          {
-            "name": "Capsize"
-          }
-        ],
-        "track_title": "Fragile",
-        "track_index": 12
-      },
-      {
-        "album": "Nella Vita",
-        "artists": [
-          {
-            "name": "Grayscale"
-          }
-        ],
-        "track_title": "In Violet",
-        "track_index": 13
-      },
-      {
-        "album": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
-        "artists": [
-          {
-            "name": "Machine Gun Kelly"
-          },
-          {
-            "name": "YUNGBLUD"
-          },
-          {
-            "name": "Travis Barker"
-          }
-        ],
-        "track_title": "I Think I'm OKAY (with YUNGBLUD & Travis Barker)",
-        "track_index": 14
-      },
-      {
-        "album": "One Little Lie",
-        "artists": [
-          {
-            "name": "Simple Creatures"
-          }
-        ],
-        "track_title": "One Little Lie",
-        "track_index": 15
       },
       {
         "album": "breathe",
@@ -4681,69 +4558,186 @@
           }
         ],
         "track_title": "Medicine",
+        "track_index": 4
+      },
+      {
+        "album": "It's Not Forever",
+        "artists": [
+          {
+            "name": "Jail Socks"
+          }
+        ],
+        "track_title": "Parting Words",
+        "track_index": 5
+      },
+      {
+        "album": "The Stranger in Our Pictures",
+        "artists": [
+          {
+            "name": "Hail The Sun"
+          }
+        ],
+        "track_title": "The Stranger in Our Pictures",
+        "track_index": 6
+      },
+      {
+        "album": "This Too Won't Pass",
+        "artists": [
+          {
+            "name": "Can't Swim"
+          }
+        ],
+        "track_title": "\"sometimes you meet the right people at the wrong times\"",
+        "track_index": 7
+      },
+      {
+        "album": "What's Past is Prologue",
+        "artists": [
+          {
+            "name": "Free Throw"
+          }
+        ],
+        "track_title": "The Corner's Dilemma",
+        "track_index": 8
+      },
+      {
+        "album": "Dark Pools",
+        "artists": [
+          {
+            "name": "Circa Survive"
+          }
+        ],
+        "track_title": "Dark Pools",
+        "track_index": 9
+      },
+      {
+        "album": "Upside Down",
+        "artists": [
+          {
+            "name": "The Story So Far"
+          }
+        ],
+        "track_title": "Upside Down",
+        "track_index": 10
+      },
+      {
+        "album": "Clair",
+        "artists": [
+          {
+            "name": "Have Mercy"
+          }
+        ],
+        "track_title": "Clair",
+        "track_index": 11
+      },
+      {
+        "album": "Be Here Now / Are You The One",
+        "artists": [
+          {
+            "name": "Basement"
+          }
+        ],
+        "track_title": "Be Here Now",
+        "track_index": 12
+      },
+      {
+        "album": "No Place",
+        "artists": [
+          {
+            "name": "If Only, If Only"
+          }
+        ],
+        "track_title": "No Place",
+        "track_index": 13
+      },
+      {
+        "album": "breathe",
+        "artists": [
+          {
+            "name": "Tiny Moving Parts"
+          }
+        ],
+        "track_title": "Bloody Nose",
+        "track_index": 14
+      },
+      {
+        "album": "You Swear It's Getting Better Every Day",
+        "artists": [
+          {
+            "name": "Kayak Jones"
+          }
+        ],
+        "track_title": "Lonely Codependent",
+        "track_index": 15
+      },
+      {
+        "album": "Problems",
+        "artists": [
+          {
+            "name": "The Get Up Kids"
+          }
+        ],
+        "track_title": "Satellite",
         "track_index": 16
       },
       {
-        "album": "Hard to Breathe",
+        "album": "Sunk",
         "artists": [
           {
-            "name": "Hawthorne Heights"
+            "name": "Unturned"
           }
         ],
-        "track_title": "Hard to Breathe",
+        "track_title": "Swimming",
         "track_index": 17
       },
       {
-        "album": "Nella Vita",
+        "album": "If You Were a Robot You'd Tell Me, Right?",
         "artists": [
           {
-            "name": "Grayscale"
+            "name": "The Seafloor Cinema"
           }
         ],
-        "track_title": "Baby Blue",
+        "track_title": "If You Were a Robot You'd Tell Me, Right?",
         "track_index": 18
       },
       {
-        "album": "Give and Take",
+        "album": "My Queen",
         "artists": [
           {
-            "name": "Calmgrove"
+            "name": "Can't Swim"
           }
         ],
-        "track_title": "Give and Take",
+        "track_title": "My Queen",
         "track_index": 19
       },
       {
-        "album": "NINE",
+        "album": "Cave In",
         "artists": [
           {
-            "name": "blink-182"
+            "name": "I The Mighty"
           }
         ],
-        "track_title": "I Really Wish I Hated You",
+        "track_title": "Cave In",
         "track_index": 20
       },
       {
-        "album": "Role Play",
+        "album": "You Can Miss Something & Not Want It Back",
         "artists": [
           {
-            "name": "Vanish"
+            "name": "Sunsleeper"
           }
         ],
-        "track_title": "Role Play",
+        "track_title": "I Hope You're Okay",
         "track_index": 21
       },
       {
-        "album": "Burn It Down",
+        "album": "Reap What You Sow",
         "artists": [
           {
-            "name": "Silverstein"
-          },
-          {
-            "name": "Caleb Shomo"
+            "name": "Better Off"
           }
         ],
-        "track_title": "Burn It Down",
+        "track_title": "Gig Love",
         "track_index": 22
       },
       {
@@ -4757,224 +4751,74 @@
         "track_index": 23
       },
       {
-        "album": "Love and Loathing",
+        "album": "breathe",
         "artists": [
           {
-            "name": "With Confidence"
+            "name": "Tiny Moving Parts"
           }
         ],
-        "track_title": "Moving Boxes",
+        "track_title": "Vertebrae",
         "track_index": 24
       },
       {
-        "album": "NINE",
+        "album": "You Swear It's Getting Better Every Day",
         "artists": [
           {
-            "name": "blink-182"
+            "name": "Kayak Jones"
           }
         ],
-        "track_title": "Darkside",
+        "track_title": "Rusted",
         "track_index": 25
       },
       {
-        "album": "Send Her To Heaven",
+        "album": "Fake Blood",
         "artists": [
           {
-            "name": "The All-American Rejects"
+            "name": "Heart Attack Man"
           }
         ],
-        "track_title": "Send Her To Heaven",
+        "track_title": "Out for Blood",
         "track_index": 26
       },
       {
-        "album": "Steady Glow",
+        "album": "Sunk",
         "artists": [
           {
-            "name": "In Her Own Words"
+            "name": "Unturned"
           }
         ],
-        "track_title": "Steady Glow",
+        "track_title": "Headrush",
         "track_index": 27
       },
       {
-        "album": "Lucid",
+        "album": "I've Been Better",
         "artists": [
           {
-            "name": "Reliance"
+            "name": "Daisyhead"
           }
         ],
-        "track_title": "Lucid",
+        "track_title": "Making Me Feel Safe",
         "track_index": 28
       },
       {
-        "album": "From The Outside",
+        "album": "Let It Go",
         "artists": [
           {
-            "name": "Real Friends"
+            "name": "The Story So Far"
           }
         ],
-        "track_title": "From The Outside",
+        "track_title": "Let It Go",
         "track_index": 29
       },
       {
-        "album": "Strange Love",
+        "album": "Problems",
         "artists": [
           {
-            "name": "Simple Creatures"
+            "name": "The Get Up Kids"
           }
         ],
-        "track_title": "Adrenaline",
+        "track_title": "Salina",
         "track_index": 30
-      },
-      {
-        "album": "Better Now",
-        "artists": [
-          {
-            "name": "Sunsleeper"
-          }
-        ],
-        "track_title": "Better Now",
-        "track_index": 31
-      },
-      {
-        "album": "Steady Glow",
-        "artists": [
-          {
-            "name": "In Her Own Words"
-          }
-        ],
-        "track_title": "Rosé by the Ocean",
-        "track_index": 32
-      },
-      {
-        "album": "How It Feels to Be Lost",
-        "artists": [
-          {
-            "name": "Sleeping With Sirens"
-          }
-        ],
-        "track_title": "How It Feels to Be Lost",
-        "track_index": 33
-      },
-      {
-        "album": "Replace Me",
-        "artists": [
-          {
-            "name": "Reside"
-          }
-        ],
-        "track_title": "Replace Me",
-        "track_index": 34
-      },
-      {
-        "album": "Karma Heart",
-        "artists": [
-          {
-            "name": "Northbound"
-          }
-        ],
-        "track_title": "Tonight",
-        "track_index": 35
-      },
-      {
-        "album": "My Reason to Come Back Home 2: Electric Boogaloo",
-        "artists": [
-          {
-            "name": "Settle Your Scores"
-          }
-        ],
-        "track_title": "My Reason to Come Back Home 2: Electric Boogaloo",
-        "track_index": 36
-      },
-      {
-        "album": "Nella Vita",
-        "artists": [
-          {
-            "name": "Grayscale"
-          }
-        ],
-        "track_title": "YOUNG",
-        "track_index": 37
-      },
-      {
-        "album": "Let You Down",
-        "artists": [
-          {
-            "name": "Divided Minds"
-          }
-        ],
-        "track_title": "Let You Down",
-        "track_index": 38
-      },
-      {
-        "album": "Degenerates",
-        "artists": [
-          {
-            "name": "A Day To Remember"
-          }
-        ],
-        "track_title": "Degenerates",
-        "track_index": 39
-      },
-      {
-        "album": "Slow Decline",
-        "artists": [
-          {
-            "name": "Decay"
-          }
-        ],
-        "track_title": "Slow Decline",
-        "track_index": 40
-      },
-      {
-        "album": "Kiss & Tell",
-        "artists": [
-          {
-            "name": "Angels & Airwaves"
-          }
-        ],
-        "track_title": "Kiss & Tell",
-        "track_index": 41
-      },
-      {
-        "album": "White Lies",
-        "artists": [
-          {
-            "name": "Conversation Piece"
-          }
-        ],
-        "track_title": "White Lies",
-        "track_index": 42
-      },
-      {
-        "album": "Living Proof",
-        "artists": [
-          {
-            "name": "State Champs"
-          }
-        ],
-        "track_title": "Criminal",
-        "track_index": 43
-      },
-      {
-        "album": "Heartbeat",
-        "artists": [
-          {
-            "name": "Have Mercy"
-          }
-        ],
-        "track_title": "Heartbeat",
-        "track_index": 44
-      },
-      {
-        "album": "Underneath The Surface",
-        "artists": [
-          {
-            "name": "The Waiting Game"
-          }
-        ],
-        "track_title": "Just Tonight, Not Forever",
-        "track_index": 45
       },
       {
         "album": "Blue In the Dark",
@@ -4984,336 +4828,47 @@
           }
         ],
         "track_title": "Blue In the Dark",
-        "track_index": 46
+        "track_index": 31
       },
       {
-        "album": "Cave In",
-        "artists": [
-          {
-            "name": "I The Mighty"
-          }
-        ],
-        "track_title": "Cave In",
-        "track_index": 47
-      },
-      {
-        "album": "Turbulent",
-        "artists": [
-          {
-            "name": "Waterparks"
-          }
-        ],
-        "track_title": "Turbulent",
-        "track_index": 48
-      },
-      {
-        "album": "Upside Down",
-        "artists": [
-          {
-            "name": "The Story So Far"
-          }
-        ],
-        "track_title": "Upside Down",
-        "track_index": 49
-      },
-      {
-        "album": "WITCH HVNT",
-        "artists": [
-          {
-            "name": "Chin Up, Kid"
-          }
-        ],
-        "track_title": "WITCH HVNT",
-        "track_index": 50
-      },
-      {
-        "album": "The Beauty in Tragedy",
-        "artists": [
-          {
-            "name": "Awaken I Am"
-          }
-        ],
-        "track_title": "The Stages of Grief",
-        "track_index": 51
-      },
-      {
-        "album": "Artificial Selection",
-        "artists": [
-          {
-            "name": "Dance Gavin Dance"
-          }
-        ],
-        "track_title": "Care",
-        "track_index": 52
-      },
-      {
-        "album": "Fresh Produce",
-        "artists": [
-          {
-            "name": "Seaway"
-          }
-        ],
-        "track_title": "Pleasures",
-        "track_index": 53
-      },
-      {
-        "album": "Liquid",
-        "artists": [
-          {
-            "name": "Boston Manor"
-          },
-          {
-            "name": "John Floreani"
-          }
-        ],
-        "track_title": "Liquid (feat. John Floreani)",
-        "track_index": 54
-      },
-      {
-        "album": "Thanks, I Hate It",
-        "artists": [
-          {
-            "name": "Simple Creatures"
-          }
-        ],
-        "track_title": "Thanks, I Hate It",
-        "track_index": 55
-      },
-      {
-        "album": "Crazy",
-        "artists": [
-          {
-            "name": "Five AM"
-          }
-        ],
-        "track_title": "Crazy",
-        "track_index": 56
-      },
-      {
-        "album": "Disconnected",
-        "artists": [
-          {
-            "name": "Calling All Captains"
-          }
-        ],
-        "track_title": "Disconnected",
-        "track_index": 57
-      },
-      {
-        "album": "Where I Belong (feat. We The Kings)",
-        "artists": [
-          {
-            "name": "Simple Plan"
-          },
-          {
-            "name": "State Champs"
-          },
-          {
-            "name": "We The Kings"
-          }
-        ],
-        "track_title": "Where I Belong (feat. We The Kings)",
-        "track_index": 58
-      },
-      {
-        "album": "Lavender Bones",
-        "artists": [
-          {
-            "name": "Stand Atlantic"
-          }
-        ],
-        "track_title": "Lavender Bones",
-        "track_index": 59
-      },
-      {
-        "album": "Strange Love",
-        "artists": [
-          {
-            "name": "Simple Creatures"
-          }
-        ],
-        "track_title": "Strange Love",
-        "track_index": 60
-      },
-      {
-        "album": "Steady Glow",
-        "artists": [
-          {
-            "name": "In Her Own Words"
-          }
-        ],
-        "track_title": "Alone with You",
-        "track_index": 61
-      },
-      {
-        "album": "The Love Life",
+        "album": "Heartbeat",
         "artists": [
           {
             "name": "Have Mercy"
           }
         ],
-        "track_title": "These Streets",
-        "track_index": 62
+        "track_title": "Heartbeat",
+        "track_index": 32
       },
       {
-        "album": "King of Nothing / Empty",
+        "album": "The Stars on Your Ceiling",
         "artists": [
           {
-            "name": "Broadside"
+            "name": "Sleep in."
           }
         ],
-        "track_title": "King of Nothing",
-        "track_index": 63
+        "track_title": "Day Dream",
+        "track_index": 33
       },
       {
-        "album": "Nothing Left to Burn",
+        "album": "No Cure",
         "artists": [
           {
-            "name": "First and Forever"
+            "name": "Sunsleeper"
           }
         ],
-        "track_title": "Nothing Left to Burn",
-        "track_index": 64
+        "track_title": "No Cure",
+        "track_index": 34
       },
       {
-        "album": "Down",
+        "album": "Circles",
         "artists": [
           {
-            "name": "Never Loved"
+            "name": "Glacier Veins"
           }
         ],
-        "track_title": "Down",
-        "track_index": 65
-      },
-      {
-        "album": "Goodnight",
-        "artists": [
-          {
-            "name": "Lilac Kings"
-          }
-        ],
-        "track_title": "Don't Pretend",
-        "track_index": 66
-      },
-      {
-        "album": "Mirrors",
-        "artists": [
-          {
-            "name": "Microwave"
-          }
-        ],
-        "track_title": "Mirrors",
-        "track_index": 67
-      },
-      {
-        "album": "Interrobang",
-        "artists": [
-          {
-            "name": "Bayside"
-          }
-        ],
-        "track_title": "Prayers",
-        "track_index": 68
-      },
-      {
-        "album": "How It Feels to Be Lost",
-        "artists": [
-          {
-            "name": "Sleeping With Sirens"
-          }
-        ],
-        "track_title": "Leave It All Behind",
-        "track_index": 69
-      },
-      {
-        "album": "Why 6 Is Afraid of 7",
-        "artists": [
-          {
-            "name": "Before Their Eyes"
-          }
-        ],
-        "track_title": "Why 6 Is Afraid of 7",
-        "track_index": 70
-      },
-      {
-        "album": "Senseless",
-        "artists": [
-          {
-            "name": "Honest Eyes"
-          }
-        ],
-        "track_title": "Senseless",
-        "track_index": 71
-      },
-      {
-        "album": "Smile Wide",
-        "artists": [
-          {
-            "name": "ROAM"
-          }
-        ],
-        "track_title": "Piranha",
-        "track_index": 72
-      },
-      {
-        "album": "This Too Won't Pass",
-        "artists": [
-          {
-            "name": "Can't Swim"
-          }
-        ],
-        "track_title": "\"sometimes you meet the right people at the wrong times\"",
-        "track_index": 73
-      },
-      {
-        "album": "Identity Crisis",
-        "artists": [
-          {
-            "name": "WSTR"
-          }
-        ],
-        "track_title": "Crisis",
-        "track_index": 74
-      },
-      {
-        "album": "The Extinction of Unicorns",
-        "artists": [
-          {
-            "name": "The Dead Love"
-          }
-        ],
-        "track_title": "Young & Dysfunctional",
-        "track_index": 75
-      },
-      {
-        "album": "breathe",
-        "artists": [
-          {
-            "name": "Tiny Moving Parts"
-          }
-        ],
-        "track_title": "Vertebrae",
-        "track_index": 76
-      },
-      {
-        "album": "So Damn Wrong / I Feel It All",
-        "artists": [
-          {
-            "name": "Bearings"
-          }
-        ],
-        "track_title": "So Damn Wrong",
-        "track_index": 77
-      },
-      {
-        "album": "Soul Escape",
-        "artists": [
-          {
-            "name": "Carry The Crown"
-          }
-        ],
-        "track_title": "Soul Escape",
-        "track_index": 78
+        "track_title": "Circles",
+        "track_index": 35
       },
       {
         "album": "No King but Me",
@@ -5323,1040 +4878,442 @@
           }
         ],
         "track_title": "No King but Me",
+        "track_index": 36
+      },
+      {
+        "album": "Mirrors",
+        "artists": [
+          {
+            "name": "Microwave"
+          }
+        ],
+        "track_title": "Mirrors",
+        "track_index": 37
+      },
+      {
+        "album": "Withered",
+        "artists": [
+          {
+            "name": "bloom."
+          }
+        ],
+        "track_title": "Better Way",
+        "track_index": 38
+      },
+      {
+        "album": "You Are Flawed, but You'll Be Fine.",
+        "artists": [
+          {
+            "name": "rationale."
+          }
+        ],
+        "track_title": "Space Angela",
+        "track_index": 39
+      },
+      {
+        "album": "Pin",
+        "artists": [
+          {
+            "name": "Signals Midwest"
+          }
+        ],
+        "track_title": "I Think We Can Stay Here",
+        "track_index": 40
+      },
+      {
+        "album": "Ave Maria",
+        "artists": [
+          {
+            "name": "The Early November"
+          }
+        ],
+        "track_title": "Ave Maria",
+        "track_index": 41
+      },
+      {
+        "album": "Big Ass Love / Take Away The Pain",
+        "artists": [
+          {
+            "name": "Angel Du$t"
+          }
+        ],
+        "track_title": "Big Ass Love",
+        "track_index": 42
+      },
+      {
+        "album": "If Only, If Only",
+        "artists": [
+          {
+            "name": "If Only, If Only"
+          }
+        ],
+        "track_title": "Out of Reach",
+        "track_index": 43
+      },
+      {
+        "album": "Better Now",
+        "artists": [
+          {
+            "name": "Sunsleeper"
+          }
+        ],
+        "track_title": "Better Now",
+        "track_index": 44
+      },
+      {
+        "album": "Artificial Selection",
+        "artists": [
+          {
+            "name": "Dance Gavin Dance"
+          }
+        ],
+        "track_title": "Care",
+        "track_index": 45
+      },
+      {
+        "album": "True Love",
+        "artists": [
+          {
+            "name": "Figure Eight"
+          }
+        ],
+        "track_title": "True Love",
+        "track_index": 46
+      },
+      {
+        "album": "April In Houston / Berkeley's On Fire",
+        "artists": [
+          {
+            "name": "SWMRS"
+          }
+        ],
+        "track_title": "April In Houston",
+        "track_index": 47
+      },
+      {
+        "album": "The Sun Is Dim",
+        "artists": [
+          {
+            "name": "Coast To Coast"
+          }
+        ],
+        "track_title": "The Sun Is Dim",
+        "track_index": 48
+      },
+      {
+        "album": "From The Outside",
+        "artists": [
+          {
+            "name": "Real Friends"
+          }
+        ],
+        "track_title": "From The Outside",
+        "track_index": 49
+      },
+      {
+        "album": "The Stars on Your Ceiling",
+        "artists": [
+          {
+            "name": "Sleep in."
+          }
+        ],
+        "track_title": "Splitting Clouds",
+        "track_index": 50
+      },
+      {
+        "album": "Waiting",
+        "artists": [
+          {
+            "name": "First Ghost"
+          }
+        ],
+        "track_title": "Waiting",
+        "track_index": 51
+      },
+      {
+        "album": "Home Made Satan",
+        "artists": [
+          {
+            "name": "Chastity"
+          }
+        ],
+        "track_title": "Sun Poisoning",
+        "track_index": 52
+      },
+      {
+        "album": "Barbados - EP",
+        "artists": [
+          {
+            "name": "Lizzy Farrall"
+          }
+        ],
+        "track_title": "Make Up Sex",
+        "track_index": 53
+      },
+      {
+        "album": "What's Past is Prologue",
+        "artists": [
+          {
+            "name": "Free Throw"
+          }
+        ],
+        "track_title": "Today is Especially Delicious",
+        "track_index": 54
+      },
+      {
+        "album": "Save Me",
+        "artists": [
+          {
+            "name": "Homesafe"
+          }
+        ],
+        "track_title": "Save Me",
+        "track_index": 55
+      },
+      {
+        "album": "Echoes",
+        "artists": [
+          {
+            "name": "John Floreani"
+          }
+        ],
+        "track_title": "Echoes",
+        "track_index": 56
+      },
+      {
+        "album": "Karma Heart",
+        "artists": [
+          {
+            "name": "Northbound"
+          }
+        ],
+        "track_title": "Tonight",
+        "track_index": 57
+      },
+      {
+        "album": "My Bad",
+        "artists": [
+          {
+            "name": "Gardenside"
+          }
+        ],
+        "track_title": "My Bad",
+        "track_index": 58
+      },
+      {
+        "album": "Soul Drive",
+        "artists": [
+          {
+            "name": "Stickup Kid"
+          }
+        ],
+        "track_title": "Soul Drive",
+        "track_index": 59
+      },
+      {
+        "album": "The Stars on Your Ceiling",
+        "artists": [
+          {
+            "name": "Sleep in."
+          }
+        ],
+        "track_title": "Deena",
+        "track_index": 60
+      },
+      {
+        "album": "White Lies",
+        "artists": [
+          {
+            "name": "Conversation Piece"
+          }
+        ],
+        "track_title": "White Lies",
+        "track_index": 61
+      },
+      {
+        "album": "Problems",
+        "artists": [
+          {
+            "name": "The Get Up Kids"
+          }
+        ],
+        "track_title": "Waking up Alone",
+        "track_index": 62
+      },
+      {
+        "album": "Lilac",
+        "artists": [
+          {
+            "name": "The Early November"
+          }
+        ],
+        "track_title": "Comatose",
+        "track_index": 63
+      },
+      {
+        "album": "The Name We Share",
+        "artists": [
+          {
+            "name": "Overgrow"
+          }
+        ],
+        "track_title": "Bad Heart",
+        "track_index": 64
+      },
+      {
+        "album": "Goddamn",
+        "artists": [
+          {
+            "name": "Never Loved"
+          }
+        ],
+        "track_title": "Goddamn",
+        "track_index": 65
+      },
+      {
+        "album": "Nomu",
+        "artists": [
+          {
+            "name": "Good Kid"
+          }
+        ],
+        "track_title": "Nomu",
+        "track_index": 66
+      },
+      {
+        "album": "The Love Life",
+        "artists": [
+          {
+            "name": "Have Mercy"
+          }
+        ],
+        "track_title": "These Streets",
+        "track_index": 67
+      },
+      {
+        "album": "Momentary",
+        "artists": [
+          {
+            "name": "Ever Elsewhere"
+          }
+        ],
+        "track_title": "Momentary",
+        "track_index": 68
+      },
+      {
+        "album": "Nothing Stays",
+        "artists": [
+          {
+            "name": "WVNDER"
+          }
+        ],
+        "track_title": "Artorias",
+        "track_index": 69
+      },
+      {
+        "album": "She's Got Style",
+        "artists": [
+          {
+            "name": "Lilac Kings"
+          }
+        ],
+        "track_title": "She's Got Style",
+        "track_index": 70
+      },
+      {
+        "album": "Everyone Around Me",
+        "artists": [
+          {
+            "name": "CommonWealth"
+          }
+        ],
+        "track_title": "Runaway",
+        "track_index": 71
+      },
+      {
+        "album": "Disappear",
+        "artists": [
+          {
+            "name": "Locket"
+          }
+        ],
+        "track_title": "First Blush",
+        "track_index": 72
+      },
+      {
+        "album": "Withered",
+        "artists": [
+          {
+            "name": "bloom."
+          }
+        ],
+        "track_title": "Goodbye Forever",
+        "track_index": 73
+      },
+      {
+        "album": "Holding Out",
+        "artists": [
+          {
+            "name": "Past Comfort"
+          }
+        ],
+        "track_title": "Holding Out",
+        "track_index": 74
+      },
+      {
+        "album": "Scream Through the Walls",
+        "artists": [
+          {
+            "name": "As Cities Burn"
+          }
+        ],
+        "track_title": "Bright White Light",
+        "track_index": 75
+      },
+      {
+        "album": "Eve",
+        "artists": [
+          {
+            "name": "Emery"
+          }
+        ],
+        "track_title": "Young Boy's Dream",
+        "track_index": 76
+      },
+      {
+        "album": "Interrobang",
+        "artists": [
+          {
+            "name": "Bayside"
+          }
+        ],
+        "track_title": "Prayers",
+        "track_index": 77
+      },
+      {
+        "album": "Where I Need to Be",
+        "artists": [
+          {
+            "name": "New Design"
+          }
+        ],
+        "track_title": "You Had Me",
+        "track_index": 78
+      },
+      {
+        "album": "Daydreamer",
+        "artists": [
+          {
+            "name": "Go For Gold"
+          }
+        ],
+        "track_title": "Smile More",
         "track_index": 79
       }
     ]
   },
   {
     "index": 8,
-    "playlist_id": "37i9dQZF1DXdbXrPNafg9d",
-    "playlist_name": "All New Indie",
-    "tracks": [
-      {
-        "album": "It Might Be Time",
-        "artists": [
-          {
-            "name": "Tame Impala"
-          }
-        ],
-        "track_title": "It Might Be Time",
-        "track_index": 0
-      },
-      {
-        "album": "Dream Boy",
-        "artists": [
-          {
-            "name": "Beach Bunny"
-          }
-        ],
-        "track_title": "Dream Boy",
-        "track_index": 1
-      },
-      {
-        "album": "Now I'm In It",
-        "artists": [
-          {
-            "name": "HAIM"
-          }
-        ],
-        "track_title": "Now I'm In It",
-        "track_index": 2
-      },
-      {
-        "album": "KIWANUKA",
-        "artists": [
-          {
-            "name": "Michael Kiwanuka"
-          }
-        ],
-        "track_title": "I've Been Dazed",
-        "track_index": 3
-      },
-      {
-        "album": "Don't Go Wasting Time",
-        "artists": [
-          {
-            "name": "Alfie Templeman"
-          }
-        ],
-        "track_title": "Don't Go Wasting Time",
-        "track_index": 4
-      },
-      {
-        "album": "Feelin' Low (F*ckboy Blues)",
-        "artists": [
-          {
-            "name": "Peach Pit"
-          }
-        ],
-        "track_title": "Feelin' Low (F*ckboy Blues)",
-        "track_index": 5
-      },
-      {
-        "album": "Sat By A Tree",
-        "artists": [
-          {
-            "name": "Dan Deacon"
-          }
-        ],
-        "track_title": "Sat By A Tree - Edit",
-        "track_index": 6
-      },
-      {
-        "album": "Questioning My Mind",
-        "artists": [
-          {
-            "name": "Ambar Lucid"
-          }
-        ],
-        "track_title": "Questioning My Mind",
-        "track_index": 7
-      },
-      {
-        "album": "Phase",
-        "artists": [
-          {
-            "name": "Pinegrove"
-          }
-        ],
-        "track_title": "Phase",
-        "track_index": 8
-      },
-      {
-        "album": "Altogether",
-        "artists": [
-          {
-            "name": "Turnover"
-          }
-        ],
-        "track_title": "Still In Motion",
-        "track_index": 9
-      },
-      {
-        "album": "beautiful baby",
-        "artists": [
-          {
-            "name": "Elizabeth"
-          }
-        ],
-        "track_title": "beautiful baby",
-        "track_index": 10
-      },
-      {
-        "album": "Love Language",
-        "artists": [
-          {
-            "name": "UMI"
-          }
-        ],
-        "track_title": "Breathe",
-        "track_index": 11
-      },
-      {
-        "album": "A Day With the Homies",
-        "artists": [
-          {
-            "name": "Panda Bear"
-          }
-        ],
-        "track_title": "Flight - Digital Mix (Edit)",
-        "track_index": 12
-      },
-      {
-        "album": "International Woman of Leisure",
-        "artists": [
-          {
-            "name": "La Roux"
-          }
-        ],
-        "track_title": "International Woman of Leisure",
-        "track_index": 13
-      },
-      {
-        "album": "How Could You Disappear?",
-        "artists": [
-          {
-            "name": "AJIMAL"
-          }
-        ],
-        "track_title": "How Could You Disappear?",
-        "track_index": 14
-      },
-      {
-        "album": "Face To Face",
-        "artists": [
-          {
-            "name": "Rex Orange County"
-          }
-        ],
-        "track_title": "Face To Face",
-        "track_index": 15
-      },
-      {
-        "album": "Cry",
-        "artists": [
-          {
-            "name": "Cigarettes After Sex"
-          }
-        ],
-        "track_title": "Touch",
-        "track_index": 16
-      },
-      {
-        "album": "Right Round The Clock",
-        "artists": [
-          {
-            "name": "Sorry"
-          }
-        ],
-        "track_title": "Right Round The Clock",
-        "track_index": 17
-      },
-      {
-        "album": "Natural Affair",
-        "artists": [
-          {
-            "name": "The Growlers"
-          }
-        ],
-        "track_title": "Social Man",
-        "track_index": 18
-      },
-      {
-        "album": "Her Vacation",
-        "artists": [
-          {
-            "name": "Goth Babe"
-          }
-        ],
-        "track_title": "Her Vacation",
-        "track_index": 19
-      },
-      {
-        "album": "My Love Was Like the Rain",
-        "artists": [
-          {
-            "name": "Låpsley"
-          }
-        ],
-        "track_title": "My Love Was Like the Rain",
-        "track_index": 20
-      },
-      {
-        "album": "Tamale",
-        "artists": [
-          {
-            "name": "Daniela Andrade"
-          }
-        ],
-        "track_title": "Tamale",
-        "track_index": 21
-      },
-      {
-        "album": "Vols. 11 & 12",
-        "artists": [
-          {
-            "name": "Desert Sessions"
-          }
-        ],
-        "track_title": "Something You Can't See",
-        "track_index": 22
-      },
-      {
-        "album": "Rare Thing",
-        "artists": [
-          {
-            "name": "Frances Quinlan"
-          },
-          {
-            "name": "Hop Along"
-          }
-        ],
-        "track_title": "Rare Thing",
-        "track_index": 23
-      },
-      {
-        "album": "Plane Ride",
-        "artists": [
-          {
-            "name": "The Undercover Dream Lovers"
-          }
-        ],
-        "track_title": "Plane Ride",
-        "track_index": 24
-      },
-      {
-        "album": "Mildew",
-        "artists": [
-          {
-            "name": "Jack Larsen"
-          }
-        ],
-        "track_title": "Bubba",
-        "track_index": 25
-      },
-      {
-        "album": "Four of Arrows",
-        "artists": [
-          {
-            "name": "Great Grandpa"
-          }
-        ],
-        "track_title": "Rosalie",
-        "track_index": 26
-      },
-      {
-        "album": "Sore Throat",
-        "artists": [
-          {
-            "name": "zack villere"
-          }
-        ],
-        "track_title": "Sore Throat",
-        "track_index": 27
-      },
-      {
-        "album": "No Hope Generation",
-        "artists": [
-          {
-            "name": "Mura Masa"
-          }
-        ],
-        "track_title": "No Hope Generation",
-        "track_index": 28
-      },
-      {
-        "album": "Keep On",
-        "artists": [
-          {
-            "name": "Courtney Barnett"
-          }
-        ],
-        "track_title": "Keep On",
-        "track_index": 29
-      },
-      {
-        "album": "Echo of Dawn / Seven Minutes",
-        "artists": [
-          {
-            "name": "TOPS"
-          }
-        ],
-        "track_title": "Seven Minutes",
-        "track_index": 30
-      },
-      {
-        "album": "All In My Head",
-        "artists": [
-          {
-            "name": "NEIL FRANCES"
-          }
-        ],
-        "track_title": "All In My Head",
-        "track_index": 31
-      },
-      {
-        "album": "Crimson Tide",
-        "artists": [
-          {
-            "name": "Destroyer"
-          }
-        ],
-        "track_title": "Crimson Tide",
-        "track_index": 32
-      },
-      {
-        "album": "Pang",
-        "artists": [
-          {
-            "name": "Caroline Polachek"
-          }
-        ],
-        "track_title": "Pang",
-        "track_index": 33
-      },
-      {
-        "album": "First Prize Bravery",
-        "artists": [
-          {
-            "name": "Sorcha Richardson"
-          }
-        ],
-        "track_title": "First Prize Bravery",
-        "track_index": 34
-      },
-      {
-        "album": "On the Outside",
-        "artists": [
-          {
-            "name": "Ethan Gruska"
-          }
-        ],
-        "track_title": "On the Outside",
-        "track_index": 35
-      },
-      {
-        "album": "Berlin",
-        "artists": [
-          {
-            "name": "Quiet Luke"
-          }
-        ],
-        "track_title": "Berlin",
-        "track_index": 36
-      },
-      {
-        "album": "Saints and Sebastian Stories",
-        "artists": [
-          {
-            "name": "Konradsen"
-          }
-        ],
-        "track_title": "Red to Rhyme",
-        "track_index": 37
-      },
-      {
-        "album": "Tongue Kissing",
-        "artists": [
-          {
-            "name": "Little Dragon"
-          }
-        ],
-        "track_title": "Tongue Kissing - Edit",
-        "track_index": 38
-      },
-      {
-        "album": "Bigger Than Life",
-        "artists": [
-          {
-            "name": "Black Marble"
-          }
-        ],
-        "track_title": "Grey Eyeliner",
-        "track_index": 39
-      },
-      {
-        "album": "Pop Song",
-        "artists": [
-          {
-            "name": "Perfume Genius"
-          }
-        ],
-        "track_title": "Pop Song",
-        "track_index": 40
-      },
-      {
-        "album": "Space Cadet",
-        "artists": [
-          {
-            "name": "beabadoobee"
-          }
-        ],
-        "track_title": "Space Cadet",
-        "track_index": 41
-      },
-      {
-        "album": "Vagabon",
-        "artists": [
-          {
-            "name": "Vagabon"
-          }
-        ],
-        "track_title": "Full Moon In Gemini",
-        "track_index": 42
-      },
-      {
-        "album": "Look At Me Now",
-        "artists": [
-          {
-            "name": "Caroline Polachek"
-          }
-        ],
-        "track_title": "Look At Me Now",
-        "track_index": 43
-      },
-      {
-        "album": "Pluto Projector",
-        "artists": [
-          {
-            "name": "Rex Orange County"
-          }
-        ],
-        "track_title": "Pluto Projector",
-        "track_index": 44
-      },
-      {
-        "album": "Heavy Lifter",
-        "artists": [
-          {
-            "name": "Hovvdy"
-          }
-        ],
-        "track_title": "Keep It Up",
-        "track_index": 45
-      },
-      {
-        "album": "Walking on a String",
-        "artists": [
-          {
-            "name": "Matt Berninger"
-          },
-          {
-            "name": "Phoebe Bridgers"
-          }
-        ],
-        "track_title": "Walking on a String",
-        "track_index": 46
-      },
-      {
-        "album": "Gallo Pinto",
-        "artists": [
-          {
-            "name": "Daniela Andrade"
-          }
-        ],
-        "track_title": "Gallo Pinto",
-        "track_index": 47
-      },
-      {
-        "album": "Eternal Light",
-        "artists": [
-          {
-            "name": "Free Nationals"
-          },
-          {
-            "name": "Chronixx"
-          }
-        ],
-        "track_title": "Eternal Light",
-        "track_index": 48
-      },
-      {
-        "album": "Deep In Love",
-        "artists": [
-          {
-            "name": "Bonny Light Horseman"
-          }
-        ],
-        "track_title": "Deep In Love",
-        "track_index": 49
-      },
-      {
-        "album": "Uneventful Days",
-        "artists": [
-          {
-            "name": "Beck"
-          }
-        ],
-        "track_title": "Uneventful Days",
-        "track_index": 50
-      },
-      {
-        "album": "Guts",
-        "artists": [
-          {
-            "name": "Augustine"
-          }
-        ],
-        "track_title": "Guts",
-        "track_index": 51
-      },
-      {
-        "album": "Hates Me",
-        "artists": [
-          {
-            "name": "OTHERLiiNE"
-          },
-          {
-            "name": "George FitzGerald"
-          },
-          {
-            "name": "Lil Silva"
-          }
-        ],
-        "track_title": "Hates Me",
-        "track_index": 52
-      },
-      {
-        "album": "No Other Like You",
-        "artists": [
-          {
-            "name": "Kate Bollinger"
-          }
-        ],
-        "track_title": "No Other Like You",
-        "track_index": 53
-      },
-      {
-        "album": "Back To You",
-        "artists": [
-          {
-            "name": "Kllo"
-          }
-        ],
-        "track_title": "Back To You",
-        "track_index": 54
-      },
-      {
-        "album": "Heybb!",
-        "artists": [
-          {
-            "name": "binki"
-          }
-        ],
-        "track_title": "Heybb!",
-        "track_index": 55
-      },
-      {
-        "album": "Good Enough",
-        "artists": [
-          {
-            "name": "Jim-E Stack"
-          },
-          {
-            "name": "Ant Clemons"
-          }
-        ],
-        "track_title": "Good Enough",
-        "track_index": 56
-      },
-      {
-        "album": "Happy To Be Here (Ext)",
-        "artists": [
-          {
-            "name": "Barrie"
-          }
-        ],
-        "track_title": "Human Nature",
-        "track_index": 57
-      },
-      {
-        "album": "Part 2 Everything Not Saved Will Be Lost",
-        "artists": [
-          {
-            "name": "Foals"
-          }
-        ],
-        "track_title": "Wash Off",
-        "track_index": 58
-      },
-      {
-        "album": "Vagabon",
-        "artists": [
-          {
-            "name": "Vagabon"
-          }
-        ],
-        "track_title": "In A Bind",
-        "track_index": 59
-      },
-      {
-        "album": "Heaven Only Knows",
-        "artists": [
-          {
-            "name": "Michael Seyer"
-          }
-        ],
-        "track_title": "Heaven Only Knows",
-        "track_index": 60
-      },
-      {
-        "album": "Come Down vs Calm Down",
-        "artists": [
-          {
-            "name": "Harmony Byrne"
-          }
-        ],
-        "track_title": "Come Down vs Calm Down",
-        "track_index": 61
-      },
-      {
-        "album": "Rearrange Us",
-        "artists": [
-          {
-            "name": "Mt. Joy"
-          }
-        ],
-        "track_title": "Rearrange Us",
-        "track_index": 62
-      },
-      {
-        "album": "Antisocial",
-        "artists": [
-          {
-            "name": "Current Blue"
-          }
-        ],
-        "track_title": "Antisocial",
-        "track_index": 63
-      },
-      {
-        "album": "Against the Day",
-        "artists": [
-          {
-            "name": "Wolf Parade"
-          }
-        ],
-        "track_title": "Against the Day",
-        "track_index": 64
-      },
-      {
-        "album": "Won't Let You",
-        "artists": [
-          {
-            "name": "MorMor"
-          }
-        ],
-        "track_title": "Won't Let You",
-        "track_index": 65
-      },
-      {
-        "album": "Home",
-        "artists": [
-          {
-            "name": "Caribou"
-          }
-        ],
-        "track_title": "Home",
-        "track_index": 66
-      },
-      {
-        "album": "Two Hands",
-        "artists": [
-          {
-            "name": "Big Thief"
-          }
-        ],
-        "track_title": "Two Hands",
-        "track_index": 67
-      },
-      {
-        "album": "H34T RISES",
-        "artists": [
-          {
-            "name": "Nilüfer Yanya"
-          }
-        ],
-        "track_title": "H34T RISES",
-        "track_index": 68
-      },
-      {
-        "album": "Falling In Love",
-        "artists": [
-          {
-            "name": "Cigarettes After Sex"
-          }
-        ],
-        "track_title": "Falling In Love",
-        "track_index": 69
-      },
-      {
-        "album": "Closer To Grey",
-        "artists": [
-          {
-            "name": "Chromatics"
-          }
-        ],
-        "track_title": "You're No Good",
-        "track_index": 70
-      },
-      {
-        "album": "Girl",
-        "artists": [
-          {
-            "name": "Girl Ray"
-          }
-        ],
-        "track_title": "Girl",
-        "track_index": 71
-      },
-      {
-        "album": "Mr. Lee",
-        "artists": [
-          {
-            "name": "Hovvdy"
-          }
-        ],
-        "track_title": "Mr. Lee",
-        "track_index": 72
-      },
-      {
-        "album": "LAHS",
-        "artists": [
-          {
-            "name": "Allah-Las"
-          }
-        ],
-        "track_title": "Star",
-        "track_index": 73
-      },
-      {
-        "album": "Tokyo",
-        "artists": [
-          {
-            "name": "Julien Baker"
-          }
-        ],
-        "track_title": "Tokyo",
-        "track_index": 74
-      },
-      {
-        "album": "In The Air Tonight",
-        "artists": [
-          {
-            "name": "Lucy Dacus"
-          }
-        ],
-        "track_title": "In The Air Tonight",
-        "track_index": 75
-      },
-      {
-        "album": "Set Me Free / All Eyes on You / Cruel World",
-        "artists": [
-          {
-            "name": "Active Child"
-          }
-        ],
-        "track_title": "Set Me Free",
-        "track_index": 76
-      },
-      {
-        "album": "Pale Blue",
-        "artists": [
-          {
-            "name": "MOSSS"
-          }
-        ],
-        "track_title": "IDK",
-        "track_index": 77
-      },
-      {
-        "album": "Your Boyfriend's Gun",
-        "artists": [
-          {
-            "name": "Palehound"
-          }
-        ],
-        "track_title": "Your Boyfriend's Gun",
-        "track_index": 78
-      },
-      {
-        "album": "All Mirrors",
-        "artists": [
-          {
-            "name": "Angel Olsen"
-          }
-        ],
-        "track_title": "New Love Cassette",
-        "track_index": 79
-      },
-      {
-        "album": "Ode to Joy",
-        "artists": [
-          {
-            "name": "Wilco"
-          }
-        ],
-        "track_title": "One and a Half Stars",
-        "track_index": 80
-      },
-      {
-        "album": "Forgotten Eyes",
-        "artists": [
-          {
-            "name": "Big Thief"
-          }
-        ],
-        "track_title": "Forgotten Eyes",
-        "track_index": 81
-      },
-      {
-        "album": "Up All Night",
-        "artists": [
-          {
-            "name": "Alex Siegel"
-          }
-        ],
-        "track_title": "Wasted Time",
-        "track_index": 82
-      },
-      {
-        "album": "Deceiver",
-        "artists": [
-          {
-            "name": "DIIV"
-          }
-        ],
-        "track_title": "Like Before You Were Born",
-        "track_index": 83
-      },
-      {
-        "album": "Drag",
-        "artists": [
-          {
-            "name": "Barrie"
-          }
-        ],
-        "track_title": "Drag",
-        "track_index": 84
-      },
-      {
-        "album": "Automatic",
-        "artists": [
-          {
-            "name": "Spencer."
-          }
-        ],
-        "track_title": "Automatic",
-        "track_index": 85
-      },
-      {
-        "album": "Tommy Gun",
-        "artists": [
-          {
-            "name": "Tommy Newport"
-          }
-        ],
-        "track_title": "Sunshine",
-        "track_index": 86
-      },
-      {
-        "album": "Private Show",
-        "artists": [
-          {
-            "name": "Black Marble"
-          }
-        ],
-        "track_title": "Private Show",
-        "track_index": 87
-      },
-      {
-        "album": "sex money feelings die (slowed version)",
-        "artists": [
-          {
-            "name": "Lykke Li"
-          }
-        ],
-        "track_title": "sex money feelings die - slowed version",
-        "track_index": 88
-      },
-      {
-        "album": "Good Luck",
-        "artists": [
-          {
-            "name": "Broken Bells"
-          }
-        ],
-        "track_title": "Good Luck",
-        "track_index": 89
-      },
-      {
-        "album": "Second Guessing",
-        "artists": [
-          {
-            "name": "Arlo Parks"
-          }
-        ],
-        "track_title": "Second Guessing",
-        "track_index": 90
-      },
-      {
-        "album": "In The Morse Code Of Brake Lights",
-        "artists": [
-          {
-            "name": "The New Pornographers"
-          }
-        ],
-        "track_title": "Colossus Of Rhodes",
-        "track_index": 91
-      },
-      {
-        "album": "Days",
-        "artists": [
-          {
-            "name": "No Vacation"
-          }
-        ],
-        "track_title": "Days",
-        "track_index": 92
-      },
-      {
-        "album": "Taking My Time to Be",
-        "artists": [
-          {
-            "name": "Strawberry Guy"
-          }
-        ],
-        "track_title": "Birch Tree",
-        "track_index": 93
-      },
-      {
-        "album": "Something Has to Change",
-        "artists": [
-          {
-            "name": "The Japanese House"
-          }
-        ],
-        "track_title": "Something Has to Change",
-        "track_index": 94
-      },
-      {
-        "album": "Deployed (feat. Little Dragon)",
-        "artists": [
-          {
-            "name": "sir Was"
-          },
-          {
-            "name": "Little Dragon"
-          }
-        ],
-        "track_title": "Deployed (feat. Little Dragon)",
-        "track_index": 95
-      },
-      {
-        "album": "Fruit Roll Up",
-        "artists": [
-          {
-            "name": "Clayjay"
-          }
-        ],
-        "track_title": "Fruit Roll Up",
-        "track_index": 96
-      },
-      {
-        "album": "lucy",
-        "artists": [
-          {
-            "name": "Soccer Mommy"
-          }
-        ],
-        "track_title": "lucy",
-        "track_index": 97
-      },
-      {
-        "album": "Jaime",
-        "artists": [
-          {
-            "name": "Brittany Howard"
-          }
-        ],
-        "track_title": "Georgia",
-        "track_index": 98
-      },
-      {
-        "album": "Everyone Hides",
-        "artists": [
-          {
-            "name": "Wilco"
-          }
-        ],
-        "track_title": "Everyone Hides",
-        "track_index": 99
-      }
-    ]
-  },
-  {
-    "index": 9,
     "playlist_id": "7qiOafaRZOvMGhmFohG1yq",
     "playlist_name": "American Football Anthology ",
     "tracks": [
@@ -6632,1029 +5589,7 @@
     ]
   },
   {
-    "index": 10,
-    "playlist_id": "5o1AJTX1chQYFF0xHVgL0f",
-    "playlist_name": "The Sound of Tucson Indie",
-    "tracks": [
-      {
-        "album": "Prelude",
-        "artists": [
-          {
-            "name": "Brian Lopez"
-          }
-        ],
-        "track_title": "Los Angeles",
-        "track_index": 0
-      },
-      {
-        "album": "Jvpiter",
-        "artists": [
-          {
-            "name": "Gabriel Sullivan"
-          }
-        ],
-        "track_title": "Flower Song",
-        "track_index": 1
-      },
-      {
-        "album": "Luz de Vida",
-        "artists": [
-          {
-            "name": "Sergio Mendoza Y la Orkesta"
-          }
-        ],
-        "track_title": "Las Calles de Tucson",
-        "track_index": 2
-      },
-      {
-        "album": "Charmed Life",
-        "artists": [
-          {
-            "name": "Billy Sedlmayr"
-          }
-        ],
-        "track_title": "Tucson Kills",
-        "track_index": 3
-      },
-      {
-        "album": "Arizona Burning",
-        "artists": [
-          {
-            "name": "Tom Walbank"
-          }
-        ],
-        "track_title": "Jaguar Blues",
-        "track_index": 4
-      },
-      {
-        "album": "None of This Is Mine",
-        "artists": [
-          {
-            "name": "Gabriel Sullivan & Taraf de Tucson"
-          }
-        ],
-        "track_title": "The Rust, The Knife",
-        "track_index": 5
-      },
-      {
-        "album": "Silver Thread Trio",
-        "artists": [
-          {
-            "name": "Silver Thread Trio"
-          }
-        ],
-        "track_title": "Who Killed Cock Robin",
-        "track_index": 6
-      },
-      {
-        "album": "The Drakes",
-        "artists": [
-          {
-            "name": "The New Drakes"
-          }
-        ],
-        "track_title": "I Did That",
-        "track_index": 7
-      },
-      {
-        "album": "Tucson Songs",
-        "artists": [
-          {
-            "name": "Al Perry"
-          }
-        ],
-        "track_title": "Dreaming",
-        "track_index": 8
-      },
-      {
-        "album": "Provisions",
-        "artists": [
-          {
-            "name": "Giant Sand"
-          }
-        ],
-        "track_title": "Stranded Pearl",
-        "track_index": 9
-      },
-      {
-        "album": "Tucson Songs",
-        "artists": [
-          {
-            "name": "Otherly Love"
-          }
-        ],
-        "track_title": "Crossed The Line",
-        "track_index": 10
-      },
-      {
-        "album": "Yeah, But It's A Dry Heat... A Tuscon, Arizona Compilation",
-        "artists": [
-          {
-            "name": "Blood Spasm"
-          }
-        ],
-        "track_title": "As In Life",
-        "track_index": 11
-      },
-      {
-        "album": "Sanguine",
-        "artists": [
-          {
-            "name": "Naïm Amor"
-          }
-        ],
-        "track_title": "Son Grand Sourire",
-        "track_index": 12
-      },
-      {
-        "album": "Convict Pool",
-        "artists": [
-          {
-            "name": "Calexico"
-          }
-        ],
-        "track_title": "Alone Again Or",
-        "track_index": 13
-      },
-      {
-        "album": "What Do You Have Against Happiness?",
-        "artists": [
-          {
-            "name": "Seashell Radio"
-          }
-        ],
-        "track_title": "I'm On A Date!",
-        "track_index": 14
-      },
-      {
-        "album": "The Whiskey Years",
-        "artists": [
-          {
-            "name": "Chango Malo"
-          }
-        ],
-        "track_title": "Discharge",
-        "track_index": 15
-      },
-      {
-        "album": "Recycled Love",
-        "artists": [
-          {
-            "name": "J. Daniel Twelker"
-          }
-        ],
-        "track_title": "Come Ride With Me",
-        "track_index": 16
-      },
-      {
-        "album": "Future Standards",
-        "artists": [
-          {
-            "name": "Howe Gelb"
-          }
-        ],
-        "track_title": "Terribly So",
-        "track_index": 17
-      },
-      {
-        "album": "Tucson Songs",
-        "artists": [
-          {
-            "name": "Boffomet"
-          }
-        ],
-        "track_title": "The Circus Of Love",
-        "track_index": 18
-      },
-      {
-        "album": "3 Songs + 3 Songs",
-        "artists": [
-          {
-            "name": "Acorn Bcorn"
-          }
-        ],
-        "track_title": "Who's Afraid of the Big Bad Wolf?",
-        "track_index": 19
-      },
-      {
-        "album": "A ca la yaya",
-        "artists": [
-          {
-            "name": "Bread and Circus"
-          }
-        ],
-        "track_title": "A ca la yaya - Radio Edit",
-        "track_index": 20
-      },
-      {
-        "album": "On The Wreath",
-        "artists": [
-          {
-            "name": "Andrew Collberg"
-          }
-        ],
-        "track_title": "Man in the moose suit",
-        "track_index": 21
-      },
-      {
-        "album": "L'Entredeux",
-        "artists": [
-          {
-            "name": "Marianne Dissard"
-          }
-        ],
-        "track_title": "Les Draps Sourds",
-        "track_index": 22
-      },
-      {
-        "album": "¡Vamos a Guarachar!",
-        "artists": [
-          {
-            "name": "Orkesta Mendoza"
-          }
-        ],
-        "track_title": "Cumbia Volcadora",
-        "track_index": 23
-      },
-      {
-        "album": "Fireproof Your TV",
-        "artists": [
-          {
-            "name": "...music video?"
-          }
-        ],
-        "track_title": "Another Borderline Emergency",
-        "track_index": 24
-      },
-      {
-        "album": "Summer Wine",
-        "artists": [
-          {
-            "name": "XIXA"
-          },
-          {
-            "name": "Pearl Charles"
-          }
-        ],
-        "track_title": "Summer Wine",
-        "track_index": 25
-      },
-      {
-        "album": "Gigantis",
-        "artists": [
-          {
-            "name": "The Holy Rolling Empire"
-          }
-        ],
-        "track_title": "Bi-polar Bear Mania",
-        "track_index": 26
-      },
-      {
-        "album": "Vehicles",
-        "artists": [
-          {
-            "name": "The Electric Blankets"
-          }
-        ],
-        "track_title": "First Song",
-        "track_index": 27
-      },
-      {
-        "album": "Lessons From the Soul",
-        "artists": [
-          {
-            "name": "Crossing Sarnoff"
-          }
-        ],
-        "track_title": "Burnt Up",
-        "track_index": 28
-      },
-      {
-        "album": "Killing the Magic",
-        "artists": [
-          {
-            "name": "Loren Dircks"
-          }
-        ],
-        "track_title": "Guitar Hero Gone",
-        "track_index": 29
-      },
-      {
-        "album": "H.A.L.T.",
-        "artists": [
-          {
-            "name": "Golden Boots"
-          }
-        ],
-        "track_title": "Somebody's Knockin'",
-        "track_index": 30
-      },
-      {
-        "album": "The Shadow Of Your Smile",
-        "artists": [
-          {
-            "name": "Friends of Dean Martinez"
-          }
-        ],
-        "track_title": "All The Pretty Horses",
-        "track_index": 31
-      },
-      {
-        "album": "Jacknife",
-        "artists": [
-          {
-            "name": "Mondo Guano"
-          }
-        ],
-        "track_title": "Don't Look At Me",
-        "track_index": 32
-      },
-      {
-        "album": "Yeah, But It's A Dry Heat... A Tuscon, Arizona Compilation",
-        "artists": [
-          {
-            "name": "Feast Upon Cactus Thorns"
-          }
-        ],
-        "track_title": "Gonzo",
-        "track_index": 33
-      },
-      {
-        "album": "No Exit",
-        "artists": [
-          {
-            "name": "The Resonars"
-          }
-        ],
-        "track_title": "Who’s Gonna Believe You Now?",
-        "track_index": 34
-      },
-      {
-        "album": "Seed & Silo",
-        "artists": [
-          {
-            "name": "Rebekah Rolland"
-          }
-        ],
-        "track_title": "Hole in the Earth",
-        "track_index": 35
-      },
-      {
-        "album": "La Pitaya",
-        "artists": [
-          {
-            "name": "Vox Urbana"
-          }
-        ],
-        "track_title": "Cuentan Los Cerros",
-        "track_index": 36
-      },
-      {
-        "album": "Under the Blue Marlin",
-        "artists": [
-          {
-            "name": "Naked Prey"
-          }
-        ],
-        "track_title": "What Price for Freedom",
-        "track_index": 37
-      },
-      {
-        "album": "I Would Fly",
-        "artists": [
-          {
-            "name": "Run Boy Run"
-          }
-        ],
-        "track_title": "Who Should Follow Who?",
-        "track_index": 38
-      },
-      {
-        "album": "Web Content",
-        "artists": [
-          {
-            "name": "American Monoxide"
-          }
-        ],
-        "track_title": "VHS Country Ramble",
-        "track_index": 39
-      },
-      {
-        "album": "Burnt Almonds",
-        "artists": [
-          {
-            "name": "Mute Swan"
-          }
-        ],
-        "track_title": "Burnt Almonds",
-        "track_index": 40
-      },
-      {
-        "album": "Lenguas Largas",
-        "artists": [
-          {
-            "name": "Lenguas Largas"
-          }
-        ],
-        "track_title": "I Feel",
-        "track_index": 41
-      },
-      {
-        "album": "Earthly Hangups",
-        "artists": [
-          {
-            "name": "Hikikomori"
-          }
-        ],
-        "track_title": "Sabino",
-        "track_index": 42
-      },
-      {
-        "album": "Hippies",
-        "artists": [
-          {
-            "name": "Harlem"
-          }
-        ],
-        "track_title": "Someday Soon",
-        "track_index": 43
-      },
-      {
-        "album": "The Ed Mitchell Clinic",
-        "artists": [
-          {
-            "name": "Mostly Bears"
-          }
-        ],
-        "track_title": "The Digital Divide",
-        "track_index": 44
-      },
-      {
-        "album": "Tell Me",
-        "artists": [
-          {
-            "name": "Seanloui"
-          }
-        ],
-        "track_title": "Tell Me",
-        "track_index": 45
-      },
-      {
-        "album": "Our Animal Skin",
-        "artists": [
-          {
-            "name": "Leila Lopez"
-          }
-        ],
-        "track_title": "Wolves",
-        "track_index": 46
-      },
-      {
-        "album": "Live the Dream",
-        "artists": [
-          {
-            "name": "Ramshackle Glory"
-          }
-        ],
-        "track_title": "Your Heart Is a Muscle the Size of Your Fist - Live",
-        "track_index": 47
-      },
-      {
-        "album": "Dust of Our Love",
-        "artists": [
-          {
-            "name": "Joe Peña"
-          }
-        ],
-        "track_title": "The Ghost / Lochness",
-        "track_index": 48
-      },
-      {
-        "album": "Sergio Mendoza Y La Orkesta",
-        "artists": [
-          {
-            "name": "Sergio Mendoza"
-          },
-          {
-            "name": "la Orkesta"
-          }
-        ],
-        "track_title": "Traicionera",
-        "track_index": 49
-      },
-      {
-        "album": "Desert Sounds",
-        "artists": [
-          {
-            "name": "Jacob Acosta"
-          }
-        ],
-        "track_title": "Prelude: Dawn to Dusk",
-        "track_index": 50
-      },
-      {
-        "album": "Loving Takes This Course - a Tribute to the Songs of Kath Bloom",
-        "artists": [
-          {
-            "name": "Amy Rude"
-          }
-        ],
-        "track_title": "In Your School",
-        "track_index": 51
-      },
-      {
-        "album": "Mean Reds / Wires On Fire",
-        "artists": [
-          {
-            "name": "Mean Reds"
-          }
-        ],
-        "track_title": "Memories I Think",
-        "track_index": 52
-      },
-      {
-        "album": "Casey Golden",
-        "artists": [
-          {
-            "name": "Casey Golden"
-          }
-        ],
-        "track_title": "The Corners of My Song",
-        "track_index": 53
-      },
-      {
-        "album": "What's Wrong with Right",
-        "artists": [
-          {
-            "name": "Hacienda Brothers"
-          }
-        ],
-        "track_title": "Cowboys to Girls",
-        "track_index": 54
-      },
-      {
-        "album": "Here Comes the Music",
-        "artists": [
-          {
-            "name": "Adara Rae & the Homewreckers"
-          }
-        ],
-        "track_title": "Miss Me Crazy",
-        "track_index": 55
-      },
-      {
-        "album": "After Night Came Sun",
-        "artists": [
-          {
-            "name": "Ryanhood"
-          }
-        ],
-        "track_title": "I Didn't Put Anything Into Your Place",
-        "track_index": 56
-      },
-      {
-        "album": "Light the Way",
-        "artists": [
-          {
-            "name": "North"
-          }
-        ],
-        "track_title": "Light the Way",
-        "track_index": 57
-      },
-      {
-        "album": "The Butterscotch Cathedral",
-        "artists": [
-          {
-            "name": "The Butterscotch Cathedral"
-          }
-        ],
-        "track_title": "Loud Heavy Sun",
-        "track_index": 58
-      },
-      {
-        "album": "Hasta La Victoria",
-        "artists": [
-          {
-            "name": "The Myrrors"
-          }
-        ],
-        "track_title": "Tea House Music",
-        "track_index": 59
-      },
-      {
-        "album": "Mr. Airplane",
-        "artists": [
-          {
-            "name": "Jillian and the Giants"
-          }
-        ],
-        "track_title": "Mr. Airplane",
-        "track_index": 60
-      },
-      {
-        "album": "EMPTY / EVERY MT",
-        "artists": [
-          {
-            "name": "Ohioan"
-          }
-        ],
-        "track_title": "LIKE SURVIVAL LIKE",
-        "track_index": 61
-      },
-      {
-        "album": "Make Your Own Time",
-        "artists": [
-          {
-            "name": "Austin Hoffman"
-          }
-        ],
-        "track_title": "Sacramento",
-        "track_index": 62
-      },
-      {
-        "album": "Hands in Our Names",
-        "artists": [
-          {
-            "name": "Karima Walker"
-          }
-        ],
-        "track_title": "Hands in Our Names",
-        "track_index": 63
-      },
-      {
-        "album": "Canopy",
-        "artists": [
-          {
-            "name": "Coyote Mustache"
-          },
-          {
-            "name": "Will the Smith"
-          }
-        ],
-        "track_title": "Canopy",
-        "track_index": 64
-      },
-      {
-        "album": "Follow You Home",
-        "artists": [
-          {
-            "name": "Katterwaul"
-          }
-        ],
-        "track_title": "Gimme Your Number",
-        "track_index": 65
-      },
-      {
-        "album": "Hangovers and Heartaches",
-        "artists": [
-          {
-            "name": "Drew Cooper"
-          }
-        ],
-        "track_title": "Easy Girls",
-        "track_index": 66
-      },
-      {
-        "album": "Turquoise",
-        "artists": [
-          {
-            "name": "BRYDES"
-          }
-        ],
-        "track_title": "Catcall",
-        "track_index": 67
-      },
-      {
-        "album": "All My Fires",
-        "artists": [
-          {
-            "name": "Adam Townsend"
-          }
-        ],
-        "track_title": "Only Heaven Knows",
-        "track_index": 68
-      },
-      {
-        "album": "Lonesome Desert, Vol.1",
-        "artists": [
-          {
-            "name": "Freddy Parish"
-          }
-        ],
-        "track_title": "Down Stream",
-        "track_index": 69
-      },
-      {
-        "album": "W.P.",
-        "artists": [
-          {
-            "name": "Asian Fred"
-          }
-        ],
-        "track_title": "W.P.",
-        "track_index": 70
-      },
-      {
-        "album": "Armed And Swingin'",
-        "artists": [
-          {
-            "name": "Hipster Daddy-O & The Handgrenades"
-          }
-        ],
-        "track_title": "Daddy-O",
-        "track_index": 71
-      },
-      {
-        "album": "Same Height Relation",
-        "artists": [
-          {
-            "name": "Hector On Stilts"
-          }
-        ],
-        "track_title": "Soul So Sweet",
-        "track_index": 72
-      },
-      {
-        "album": "Camaleón",
-        "artists": [
-          {
-            "name": "Carlos Arzate"
-          }
-        ],
-        "track_title": "Broken Glass",
-        "track_index": 73
-      },
-      {
-        "album": "In Between",
-        "artists": [
-          {
-            "name": "Viané"
-          }
-        ],
-        "track_title": "In Between",
-        "track_index": 74
-      },
-      {
-        "album": "It's So December",
-        "artists": [
-          {
-            "name": "Hank Topless"
-          }
-        ],
-        "track_title": "Mockinbird Blues",
-        "track_index": 75
-      },
-      {
-        "album": "Ghost Limb",
-        "artists": [
-          {
-            "name": "Infinite Souls"
-          }
-        ],
-        "track_title": "Ghost Limb",
-        "track_index": 76
-      },
-      {
-        "album": "Pima County Soul",
-        "artists": [
-          {
-            "name": "Austin Counts"
-          }
-        ],
-        "track_title": "Burning Hot in Tucson",
-        "track_index": 77
-      },
-      {
-        "album": "Foxx Bodies",
-        "artists": [
-          {
-            "name": "Foxx Bodies"
-          }
-        ],
-        "track_title": "Rock Baby",
-        "track_index": 78
-      },
-      {
-        "album": "The Girl",
-        "artists": [
-          {
-            "name": "Belinda Esquer Music"
-          }
-        ],
-        "track_title": "My Love",
-        "track_index": 79
-      },
-      {
-        "album": "Pluto",
-        "artists": [
-          {
-            "name": "Katie Haverly"
-          }
-        ],
-        "track_title": "Ruins",
-        "track_index": 80
-      },
-      {
-        "album": "Crisis Party",
-        "artists": [
-          {
-            "name": "Chateau Chateau"
-          }
-        ],
-        "track_title": "Crisis Party",
-        "track_index": 81
-      },
-      {
-        "album": "The Crow Original Motion Picture Soundtrack",
-        "artists": [
-          {
-            "name": "Machines Of Loving Grace"
-          }
-        ],
-        "track_title": "Golgotha Tenement Blues",
-        "track_index": 82
-      },
-      {
-        "album": "Stories You Can't Tell",
-        "artists": [
-          {
-            "name": "Steff and the Articles"
-          }
-        ],
-        "track_title": "Two Cities",
-        "track_index": 83
-      },
-      {
-        "album": "Your Nomenclature",
-        "artists": [
-          {
-            "name": "Brian Lopez"
-          }
-        ],
-        "track_title": "Your Nomenclature",
-        "track_index": 84
-      },
-      {
-        "album": "Black Crow",
-        "artists": [
-          {
-            "name": "Gabriel Sullivan"
-          }
-        ],
-        "track_title": "Black Crow Blues",
-        "track_index": 85
-      },
-      {
-        "album": "Charmed Life",
-        "artists": [
-          {
-            "name": "Billy Sedlmayr"
-          }
-        ],
-        "track_title": "Black Grenadine",
-        "track_index": 86
-      },
-      {
-        "album": "Lonesome Desert, Vol.1",
-        "artists": [
-          {
-            "name": "Tom Walbank"
-          }
-        ],
-        "track_title": "Angel on Vacation",
-        "track_index": 87
-      },
-      {
-        "album": "None of This Is Mine",
-        "artists": [
-          {
-            "name": "Gabriel Sullivan & Taraf de Tucson"
-          }
-        ],
-        "track_title": "Ojos Azules",
-        "track_index": 88
-      },
-      {
-        "album": "Trigger and Scythe",
-        "artists": [
-          {
-            "name": "Silver Thread Trio"
-          }
-        ],
-        "track_title": "River's Run Dry",
-        "track_index": 89
-      },
-      {
-        "album": "The Drakes",
-        "artists": [
-          {
-            "name": "The New Drakes"
-          }
-        ],
-        "track_title": "On Plenty",
-        "track_index": 90
-      },
-      {
-        "album": "Retronuevo",
-        "artists": [
-          {
-            "name": "Al Perry"
-          },
-          {
-            "name": "Dan Stuart"
-          }
-        ],
-        "track_title": "Daddy's Girl",
-        "track_index": 91
-      },
-      {
-        "album": "Tucson",
-        "artists": [
-          {
-            "name": "Giant Sand"
-          }
-        ],
-        "track_title": "Forever And A Day",
-        "track_index": 92
-      },
-      {
-        "album": "Tucson Songs",
-        "artists": [
-          {
-            "name": "Naïm Amor"
-          }
-        ],
-        "track_title": "Creole",
-        "track_index": 93
-      },
-      {
-        "album": "What Do You Have Against Happiness?",
-        "artists": [
-          {
-            "name": "Seashell Radio"
-          }
-        ],
-        "track_title": "Tsunami",
-        "track_index": 94
-      },
-      {
-        "album": "The Whiskey Years",
-        "artists": [
-          {
-            "name": "Chango Malo"
-          }
-        ],
-        "track_title": "Cops... Criminals",
-        "track_index": 95
-      },
-      {
-        "album": "Years to Burn",
-        "artists": [
-          {
-            "name": "Calexico"
-          },
-          {
-            "name": "Iron & Wine"
-          }
-        ],
-        "track_title": "Father Mountain",
-        "track_index": 96
-      },
-      {
-        "album": "Recycled Love",
-        "artists": [
-          {
-            "name": "J. Daniel Twelker"
-          }
-        ],
-        "track_title": "My Girl's Tall",
-        "track_index": 97
-      },
-      {
-        "album": "Sno Angel Like You",
-        "artists": [
-          {
-            "name": "Howe Gelb"
-          }
-        ],
-        "track_title": "But I Did Not",
-        "track_index": 98
-      },
-      {
-        "album": "3 Songs + 3 Songs",
-        "artists": [
-          {
-            "name": "Acorn Bcorn"
-          }
-        ],
-        "track_title": "A Shape That's Hard to Break",
-        "track_index": 99
-      }
-    ]
-  },
-  {
-    "index": 11,
+    "index": 9,
     "playlist_id": "6Z3USJK9RutXOgmI2Vz61Q",
     "playlist_name": "Folk Emo & Gloom Folk",
     "tracks": [
@@ -7679,13 +5614,13 @@
         "track_index": 1
       },
       {
-        "album": "Ashford",
+        "album": "As Quiet As the Dead Sea (I Dreamt of a Farewell on the Walls of Masada)",
         "artists": [
           {
             "name": "Foxpaw"
           }
         ],
-        "track_title": "Ashford",
+        "track_title": "As Quiet As the Dead Sea (I Dreamt of a Farewell on the Walls of Masada)",
         "track_index": 2
       },
       {
@@ -7829,13 +5764,13 @@
         "track_index": 16
       },
       {
-        "album": "D Minor (Remastered)",
+        "album": "Ashford",
         "artists": [
           {
             "name": "Foxpaw"
           }
         ],
-        "track_title": "D Minor (Remastered)",
+        "track_title": "Ashford",
         "track_index": 17
       },
       {
@@ -7959,13 +5894,13 @@
         "track_index": 29
       },
       {
-        "album": "As Quiet As the Dead Sea (I Dreamt of a Farewell on the Walls of Masada)",
+        "album": "D Minor (Remastered)",
         "artists": [
           {
             "name": "Foxpaw"
           }
         ],
-        "track_title": "As Quiet As the Dead Sea (I Dreamt of a Farewell on the Walls of Masada)",
+        "track_title": "D Minor (Remastered)",
         "track_index": 30
       },
       {
@@ -8049,6 +5984,16 @@
         "track_index": 38
       },
       {
+        "album": "Happy Birthday to the Love of My Life, and Her New Boyfriend Andr*w",
+        "artists": [
+          {
+            "name": "Social Norms"
+          }
+        ],
+        "track_title": "Overly Aggressive Bingo Players",
+        "track_index": 39
+      },
+      {
         "album": "Music to Practice Safe Sex To",
         "artists": [
           {
@@ -8056,7 +6001,7 @@
           }
         ],
         "track_title": "They Only Care About My Fills and Not My Feels",
-        "track_index": 39
+        "track_index": 40
       },
       {
         "album": "Campfires",
@@ -8066,7 +6011,7 @@
           }
         ],
         "track_title": "O, Spider! O, Web!",
-        "track_index": 40
+        "track_index": 41
       },
       {
         "album": "Wendy",
@@ -8076,7 +6021,7 @@
           }
         ],
         "track_title": "Clearly Again",
-        "track_index": 41
+        "track_index": 42
       },
       {
         "album": "All The Toppings",
@@ -8086,7 +6031,7 @@
           }
         ],
         "track_title": "Naruto Themed Sexting",
-        "track_index": 42
+        "track_index": 43
       },
       {
         "album": "I'm Wide Awake, It's Morning",
@@ -8096,7 +6041,7 @@
           }
         ],
         "track_title": "Lua",
-        "track_index": 43
+        "track_index": 44
       },
       {
         "album": "Going By",
@@ -8106,7 +6051,7 @@
           }
         ],
         "track_title": "Wappingers Creek",
-        "track_index": 44
+        "track_index": 45
       },
       {
         "album": "Remnants",
@@ -8116,7 +6061,7 @@
           }
         ],
         "track_title": "Flannel",
-        "track_index": 45
+        "track_index": 46
       },
       {
         "album": "Still Water",
@@ -8126,7 +6071,7 @@
           }
         ],
         "track_title": "Parking Lots",
-        "track_index": 46
+        "track_index": 47
       },
       {
         "album": "Intersections",
@@ -8136,7 +6081,7 @@
           }
         ],
         "track_title": "The Shaking of Leaves",
-        "track_index": 47
+        "track_index": 48
       },
       {
         "album": "The Sunset Tree",
@@ -8146,7 +6091,7 @@
           }
         ],
         "track_title": "Lion's Teeth",
-        "track_index": 48
+        "track_index": 49
       },
       {
         "album": "Prologue",
@@ -8156,7 +6101,7 @@
           }
         ],
         "track_title": "Michigan",
-        "track_index": 49
+        "track_index": 50
       },
       {
         "album": "Park Jefferson",
@@ -8166,7 +6111,7 @@
           }
         ],
         "track_title": "Better Boy",
-        "track_index": 50
+        "track_index": 51
       },
       {
         "album": "You Won't Miss Me",
@@ -8176,7 +6121,7 @@
           }
         ],
         "track_title": "The Boy Who Wished for Wings",
-        "track_index": 51
+        "track_index": 52
       },
       {
         "album": "Divorce Lawyers I Shaved My Head",
@@ -8186,7 +6131,7 @@
           }
         ],
         "track_title": "(s)mother",
-        "track_index": 52
+        "track_index": 53
       },
       {
         "album": "Seven Swans",
@@ -8196,7 +6141,7 @@
           }
         ],
         "track_title": "To Be Alone With You",
-        "track_index": 53
+        "track_index": 54
       },
       {
         "album": "Either/Or",
@@ -8206,7 +6151,7 @@
           }
         ],
         "track_title": "Angeles",
-        "track_index": 54
+        "track_index": 55
       },
       {
         "album": "Recycled Youth - Volume One",
@@ -8216,7 +6161,7 @@
           }
         ],
         "track_title": "On the Brightside - 2015 Version",
-        "track_index": 55
+        "track_index": 56
       },
       {
         "album": "Park Jefferson",
@@ -8226,7 +6171,7 @@
           }
         ],
         "track_title": "A Homemade Portland",
-        "track_index": 56
+        "track_index": 57
       },
       {
         "album": "Five Leaves Left",
@@ -8236,7 +6181,7 @@
           }
         ],
         "track_title": "Way To Blue",
-        "track_index": 57
+        "track_index": 58
       },
       {
         "album": "Kaiju",
@@ -8246,7 +6191,7 @@
           }
         ],
         "track_title": "Creature",
-        "track_index": 58
+        "track_index": 59
       },
       {
         "album": "I'll Keep You In Mind, From Time to Time",
@@ -8256,7 +6201,7 @@
           }
         ],
         "track_title": "Gum",
-        "track_index": 59
+        "track_index": 60
       },
       {
         "album": "That Sea, The Gambler",
@@ -8266,7 +6211,7 @@
           }
         ],
         "track_title": "The Stable Song",
-        "track_index": 60
+        "track_index": 61
       },
       {
         "album": "Smidley",
@@ -8276,7 +6221,7 @@
           }
         ],
         "track_title": "Milkshake",
-        "track_index": 61
+        "track_index": 62
       },
       {
         "album": "DSU",
@@ -8286,7 +6231,7 @@
           }
         ],
         "track_title": "Sorry",
-        "track_index": 62
+        "track_index": 63
       },
       {
         "album": "You Won't Miss Me",
@@ -8296,7 +6241,7 @@
           }
         ],
         "track_title": "Polaris",
-        "track_index": 63
+        "track_index": 64
       },
       {
         "album": "Stranger in the Alps",
@@ -8306,7 +6251,7 @@
           }
         ],
         "track_title": "Would You Rather",
-        "track_index": 64
+        "track_index": 65
       },
       {
         "album": "Tigers Jaw",
@@ -8316,7 +6261,7 @@
           }
         ],
         "track_title": "Plane vs. Tank vs. Submarine",
-        "track_index": 65
+        "track_index": 66
       },
       {
         "album": "Campfires",
@@ -8326,7 +6271,7 @@
           }
         ],
         "track_title": "Mannequins and Nomads",
-        "track_index": 66
+        "track_index": 67
       },
       {
         "album": "Hospice",
@@ -8336,7 +6281,7 @@
           }
         ],
         "track_title": "Epilogue",
-        "track_index": 67
+        "track_index": 68
       },
       {
         "album": "Buzzard",
@@ -8346,7 +6291,7 @@
           }
         ],
         "track_title": "Lunatic, Lunatic, Lunatic",
-        "track_index": 68
+        "track_index": 69
       },
       {
         "album": "Well Soon",
@@ -8356,7 +6301,7 @@
           }
         ],
         "track_title": "Chamomile",
-        "track_index": 69
+        "track_index": 70
       },
       {
         "album": "Sky of No Stars",
@@ -8366,7 +6311,7 @@
           }
         ],
         "track_title": "Death #1",
-        "track_index": 70
+        "track_index": 71
       },
       {
         "album": "Beachboy",
@@ -8376,7 +6321,7 @@
           }
         ],
         "track_title": "Alligator Skin Boots",
-        "track_index": 71
+        "track_index": 72
       },
       {
         "album": "Needy When I'm Needy",
@@ -8386,7 +6331,7 @@
           }
         ],
         "track_title": "Tighten Up",
-        "track_index": 72
+        "track_index": 73
       },
       {
         "album": "Small Steps, Heavy Hooves",
@@ -8396,7 +6341,7 @@
           }
         ],
         "track_title": "Hallelujah",
-        "track_index": 73
+        "track_index": 74
       },
       {
         "album": "Stupid",
@@ -8406,7 +6351,7 @@
           }
         ],
         "track_title": "Stupid",
-        "track_index": 74
+        "track_index": 75
       },
       {
         "album": "People Who Can Eat People are the Luckiest People in the World",
@@ -8416,7 +6361,7 @@
           }
         ],
         "track_title": "A Song Dedicated to the Memory of Stormy the Rabbit",
-        "track_index": 75
+        "track_index": 76
       },
       {
         "album": "You Won",
@@ -8426,7 +6371,7 @@
           }
         ],
         "track_title": "Dakota",
-        "track_index": 76
+        "track_index": 77
       },
       {
         "album": "You Won't Miss Me",
@@ -8436,7 +6381,7 @@
           }
         ],
         "track_title": "Ghost",
-        "track_index": 77
+        "track_index": 78
       },
       {
         "album": "Too Nice to Mean Much",
@@ -8446,7 +6391,7 @@
           }
         ],
         "track_title": "Folk Art Masterpiece",
-        "track_index": 78
+        "track_index": 79
       },
       {
         "album": "High on Tulsa Heat",
@@ -8456,7 +6401,7 @@
           }
         ],
         "track_title": "You Don't Care for Me Enough to Cry",
-        "track_index": 79
+        "track_index": 80
       },
       {
         "album": "Mary's Voice",
@@ -8466,7 +6411,7 @@
           }
         ],
         "track_title": "Takeshi and Elijah",
-        "track_index": 80
+        "track_index": 81
       },
       {
         "album": "Best Buds",
@@ -8476,7 +6421,7 @@
           }
         ],
         "track_title": "Vape Nation",
-        "track_index": 81
+        "track_index": 82
       },
       {
         "album": "Nobody Needs Me",
@@ -8486,7 +6431,7 @@
           }
         ],
         "track_title": "The Beard Song",
-        "track_index": 82
+        "track_index": 83
       },
       {
         "album": "Ruth",
@@ -8496,7 +6441,7 @@
           }
         ],
         "track_title": "Cynicism",
-        "track_index": 83
+        "track_index": 84
       },
       {
         "album": "Paul Baribeau",
@@ -8506,7 +6451,7 @@
           }
         ],
         "track_title": "Boys Like Me",
-        "track_index": 84
+        "track_index": 85
       },
       {
         "album": "Holdly",
@@ -8516,7 +6461,7 @@
           }
         ],
         "track_title": "Vacation",
-        "track_index": 85
+        "track_index": 86
       },
       {
         "album": "Dark Arc",
@@ -8526,7 +6471,17 @@
           }
         ],
         "track_title": "Fed Up With Hunger",
-        "track_index": 86
+        "track_index": 87
+      },
+      {
+        "album": "The Sleeping Owl and the Flying Fish",
+        "artists": [
+          {
+            "name": "Itchy Itchy Ickabod"
+          }
+        ],
+        "track_title": "Steven",
+        "track_index": 88
       },
       {
         "album": "The Carpenter",
@@ -8536,7 +6491,7 @@
           }
         ],
         "track_title": "Live And Die",
-        "track_index": 87
+        "track_index": 89
       },
       {
         "album": "The Barebones",
@@ -8546,7 +6501,7 @@
           }
         ],
         "track_title": "Porch Drunk Lullaby",
-        "track_index": 88
+        "track_index": 90
       },
       {
         "album": "Birthdays (Deluxe Edition)",
@@ -8556,7 +6511,7 @@
           }
         ],
         "track_title": "You",
-        "track_index": 89
+        "track_index": 91
       },
       {
         "album": "Light Upon the Lake",
@@ -8566,7 +6521,7 @@
           }
         ],
         "track_title": "No Woman",
-        "track_index": 90
+        "track_index": 92
       },
       {
         "album": "Campfires",
@@ -8576,7 +6531,7 @@
           }
         ],
         "track_title": "Alta",
-        "track_index": 91
+        "track_index": 93
       },
       {
         "album": "Masterpiece",
@@ -8586,7 +6541,7 @@
           }
         ],
         "track_title": "Paul",
-        "track_index": 92
+        "track_index": 94
       },
       {
         "album": "Bury Me At Makeout Creek",
@@ -8596,7 +6551,7 @@
           }
         ],
         "track_title": "Last Words of a Shooting Star",
-        "track_index": 93
+        "track_index": 95
       },
       {
         "album": "Form Less",
@@ -8606,7 +6561,7 @@
           }
         ],
         "track_title": "I Was Coerced",
-        "track_index": 94
+        "track_index": 96
       },
       {
         "album": "Julien Baker on Audiotree Live",
@@ -8616,7 +6571,7 @@
           }
         ],
         "track_title": "Something - Audiotree Live Version",
-        "track_index": 95
+        "track_index": 97
       },
       {
         "album": "You Won't Miss Me",
@@ -8626,7 +6581,7 @@
           }
         ],
         "track_title": "Serpentine",
-        "track_index": 96
+        "track_index": 98
       },
       {
         "album": "\"God, Forgive These Bastards\" Songs From The Forgotten Life of Henry Turner",
@@ -8636,32 +6591,12 @@
           }
         ],
         "track_title": "I Love You Like An Alcoholic",
-        "track_index": 97
-      },
-      {
-        "album": "Stranger in the Alps",
-        "artists": [
-          {
-            "name": "Phoebe Bridgers"
-          }
-        ],
-        "track_title": "Smoke Signals",
-        "track_index": 98
-      },
-      {
-        "album": "Bedpunk",
-        "artists": [
-          {
-            "name": "Just Nick"
-          }
-        ],
-        "track_title": "Bedpunk",
         "track_index": 99
       }
     ]
   },
   {
-    "index": 12,
+    "index": 10,
     "playlist_id": "1soVAeEWM2lIKnX8o4gSVF",
     "playlist_name": "Fresh Indie 2019  (updated daily)",
     "tracks": [
@@ -8759,7 +6694,7 @@
         "album": "Obverse",
         "artists": [
           {
-            "name": "Trentemøller"
+            "name": "trentemøller"
           },
           {
             "name": "Lisbet Fritze"
@@ -9689,7 +7624,7 @@
     ]
   },
   {
-    "index": 13,
+    "index": 11,
     "playlist_id": "6J65jeVuMxTnnNV64qvw64",
     "playlist_name": "Saggy Ass Sad Girl Pants",
     "tracks": [
@@ -9936,7 +7871,7 @@
     ]
   },
   {
-    "index": 14,
+    "index": 12,
     "playlist_id": "0sq1Tx587XLlhLwpGd2uMM",
     "playlist_name": "a e s t h e t i c",
     "tracks": [
@@ -10573,7 +8508,7 @@
     ]
   },
   {
-    "index": 15,
+    "index": 13,
     "playlist_id": "1PHv6vU6D35T1B2gt0WtLt",
     "playlist_name": "Liked from Radio",
     "tracks": [
@@ -11130,7 +9065,7 @@
     ]
   },
   {
-    "index": 16,
+    "index": 14,
     "playlist_id": "0z0Xvog2TYiaa67hgmqmLt",
     "playlist_name": "👻",
     "tracks": [
@@ -11390,7 +9325,7 @@
     ]
   },
   {
-    "index": 17,
+    "index": 15,
     "playlist_id": "3GDNBCPSpNlQn7tE2PJin3",
     "playlist_name": "Summer Tunes",
     "tracks": [
@@ -11897,7 +9832,7 @@
     ]
   },
   {
-    "index": 18,
+    "index": 16,
     "playlist_id": "6SKgoEdXM3VlXzFwc4krM8",
     "playlist_name": "Current Jamz",
     "tracks": [
@@ -11964,7 +9899,7 @@
     ]
   },
   {
-    "index": 19,
+    "index": 17,
     "playlist_id": "7IySLprnZYIMiKVNWM1wZR",
     "playlist_name": "Sans Amplification",
     "tracks": [
@@ -12627,7 +10562,7 @@
     ]
   },
   {
-    "index": 20,
+    "index": 18,
     "playlist_id": "405EKyxBvGUMnkNfmN2jUM",
     "playlist_name": "<Coding>",
     "tracks": [
@@ -12864,7 +10799,7 @@
     ]
   },
   {
-    "index": 21,
+    "index": 19,
     "playlist_id": "3WZj5IdDbJIEkwA2TrsnIc",
     "playlist_name": "Writing Vibes",
     "tracks": [
@@ -13191,320 +11126,317 @@
     ]
   },
   {
-    "index": 22,
+    "index": 20,
     "playlist_id": "37i9dQZEVXcSixjCqwgvYH",
     "playlist_name": "Discover Weekly",
     "tracks": [
       {
-        "album": "Starry Cat",
+        "album": "Wormfood",
         "artists": [
           {
-            "name": "Starry Cat"
+            "name": "Jamaican Queens"
           }
         ],
-        "track_title": "Happiness",
+        "track_title": "Caitlin",
         "track_index": 0
       },
       {
-        "album": "Curtains",
+        "album": "No Bouquet",
         "artists": [
           {
-            "name": "Ambrose"
-          },
-          {
-            "name": "Waxamilion"
+            "name": "All Get Out"
           }
         ],
-        "track_title": "Curtains",
+        "track_title": "Rose",
         "track_index": 1
       },
       {
-        "album": "Slide",
+        "album": "I Thought You Didn't Even Like Leaving",
         "artists": [
           {
-            "name": "George Clanton"
+            "name": "Prince Daddy & the Hyena"
           }
         ],
-        "track_title": "You Lost Me There",
+        "track_title": "Really?",
         "track_index": 2
       },
       {
-        "album": "Lavender Town",
+        "album": "No Drum and Bass in the Jazz Room",
         "artists": [
           {
-            "name": "Dwellings"
+            "name": "Clever Girl"
           }
         ],
-        "track_title": "Foreverest",
+        "track_title": "Ohmygodiloveyoupleasedontleaveme",
         "track_index": 3
       },
       {
-        "album": "Big Sky",
+        "album": "Smell Smoke",
         "artists": [
           {
-            "name": "Space Mountain"
+            "name": "Vundabar"
           }
         ],
-        "track_title": "Never Lonely",
+        "track_title": "Harvest",
         "track_index": 4
       },
       {
-        "album": "Sick Scenes",
+        "album": "Mental Knife",
         "artists": [
           {
-            "name": "Los Campesinos!"
+            "name": "Hail The Sun"
           }
         ],
-        "track_title": "A Slow, Slow Death",
+        "track_title": "The Stranger in Our Pictures",
         "track_index": 5
       },
       {
-        "album": "Everything All at Once",
+        "album": "Hypnagogia",
         "artists": [
           {
-            "name": "Sea in the Sky"
+            "name": "Dan Mason ダン·メイソン"
           }
         ],
-        "track_title": "Dreamer",
+        "track_title": "Hopefully Forever",
         "track_index": 6
       },
       {
-        "album": "Best Buds",
+        "album": "SG",
         "artists": [
           {
-            "name": "Mom Jeans."
+            "name": "Sea Ghost"
           }
         ],
-        "track_title": "Girl Scout Cookies",
+        "track_title": "Cowboy Hat",
         "track_index": 7
       },
       {
-        "album": "Dancing Is Depressing (Expanded Edition)",
+        "album": "Never Scared",
         "artists": [
           {
-            "name": "Attic Abasement"
+            "name": "Modern Chemistry"
           }
         ],
-        "track_title": "A Werewolf",
+        "track_title": "Never Scared",
         "track_index": 8
       },
       {
-        "album": "New Others Part Two",
+        "album": "Everyone I've Ever Loved",
         "artists": [
           {
-            "name": "This Will Destroy You"
+            "name": "Valleyheart"
           }
         ],
-        "track_title": "Sound of Your Death",
+        "track_title": "Friends in The Foyer",
         "track_index": 9
       },
       {
-        "album": "Pronounced Mcgee",
+        "album": "Duster's Lament",
         "artists": [
           {
-            "name": "Mk.gee"
+            "name": "Yucky Duster"
           }
         ],
-        "track_title": "I",
+        "track_title": "The Ropes",
         "track_index": 10
       },
       {
-        "album": "Cool Year",
+        "album": "Grapetooth",
         "artists": [
           {
-            "name": "Worst Party Ever"
+            "name": "Grapetooth"
           }
         ],
-        "track_title": "3:67 AM",
+        "track_title": "Violent",
         "track_index": 11
       },
       {
-        "album": "Parrot Flies",
+        "album": "Sixteen",
         "artists": [
           {
-            "name": "Algernon Cadwallader"
+            "name": "Cottonwood Firing Squad"
           }
         ],
-        "track_title": "Springing Leaks",
+        "track_title": "I'm Glad Yer Doin' Well.",
         "track_index": 12
       },
       {
-        "album": "Feel Something",
+        "album": "T H E",
         "artists": [
           {
-            "name": "Movements"
+            "name": "tricot"
           }
         ],
-        "track_title": "Fever Dream",
+        "track_title": "artsick",
         "track_index": 13
       },
       {
-        "album": "Banker's Hill",
+        "album": "Reap What You Sow",
         "artists": [
           {
-            "name": "El Ten Eleven"
+            "name": "Better Off"
           }
         ],
-        "track_title": "You Are Enough",
+        "track_title": "Reap What You Sow",
         "track_index": 14
       },
       {
-        "album": "Old Women",
+        "album": "Underwater",
         "artists": [
           {
-            "name": "Jetty Bones"
+            "name": "Elephant Gym"
           },
           {
-            "name": "Dylan Mattheisen"
+            "name": "YeYe"
           }
         ],
-        "track_title": "Spokes (feat. Dylan Mattheisen)",
+        "track_title": "Moonset (feat. YeYe) [International Collaboration Version]",
         "track_index": 15
       },
       {
-        "album": "The Hands and Feet Turn Blue",
+        "album": "Brittle as Bones",
         "artists": [
           {
-            "name": "Peaer"
+            "name": "Setec"
           }
         ],
-        "track_title": "Left / Felt, Pt. 2",
+        "track_title": "Water or Concrete",
         "track_index": 16
       },
       {
-        "album": "O My Enemy",
+        "album": "Sweat",
         "artists": [
           {
-            "name": "Casper Skulls"
+            "name": "The Technicolors"
           }
         ],
-        "track_title": "O My Enemy",
+        "track_title": "Space Cadet",
         "track_index": 17
       },
       {
-        "album": "Hi",
+        "album": "A Long Goodbye",
         "artists": [
           {
-            "name": "Little Junior"
+            "name": "Bogues"
           }
         ],
-        "track_title": "Accolades",
+        "track_title": "A Long Goodbye",
         "track_index": 18
       },
       {
-        "album": "The Dream Is Over",
+        "album": "'s Favorite Friend",
         "artists": [
           {
-            "name": "PUP"
+            "name": "Stove"
           }
         ],
-        "track_title": "Pine Point",
+        "track_title": "Mosquiter",
         "track_index": 19
       },
       {
-        "album": "A Will Away / Head North Split EP",
+        "album": "Phantom Phuzz",
         "artists": [
           {
-            "name": "Head North"
+            "name": "Cooler"
           }
         ],
-        "track_title": "In The Water",
+        "track_title": "Metal Moths",
         "track_index": 20
       },
       {
-        "album": "Zolof the Rock & Roll Destroyer",
+        "album": "Crime In Stereo Is Dead",
         "artists": [
           {
-            "name": "Zolof the Rock & Roll Destroyer"
+            "name": "Crime In Stereo"
           }
         ],
-        "track_title": "Plays Pretty for Baby",
+        "track_title": "Small Skeletal",
         "track_index": 21
       },
       {
-        "album": "Primitive Initiative",
+        "album": "Remember Alderaan?",
         "artists": [
           {
-            "name": "The Brazen Youth"
+            "name": "Dogleg"
           }
         ],
-        "track_title": "Burn Slowly/ I Love You",
+        "track_title": "Star 67",
         "track_index": 22
       },
       {
-        "album": "Nausea",
+        "album": "Cat Company",
         "artists": [
           {
-            "name": "Craft Spells"
+            "name": "Cat Company"
           }
         ],
-        "track_title": "Komorebi",
+        "track_title": "Sad Dance",
         "track_index": 23
       },
       {
-        "album": "She Plays Bass",
+        "album": "Elegies",
         "artists": [
           {
-            "name": "beabadoobee"
+            "name": "Makari"
           }
         ],
-        "track_title": "She Plays Bass",
+        "track_title": "Blossom",
         "track_index": 24
       },
       {
-        "album": "Wash",
+        "album": "This Too Won't Pass",
         "artists": [
           {
-            "name": "FLOOR CRY"
+            "name": "Can't Swim"
           }
         ],
-        "track_title": "Wash",
+        "track_title": "\"sometimes you meet the right people at the wrong times\"",
         "track_index": 25
       },
       {
-        "album": "Chinatown",
+        "album": "Heart Sky",
         "artists": [
           {
-            "name": "Girlpool"
+            "name": "Emily Yacina"
           }
         ],
-        "track_title": "Cut Your Bangs",
+        "track_title": "Bad Kid",
         "track_index": 26
       },
       {
-        "album": "Every Nothing",
+        "album": "Headache",
         "artists": [
           {
-            "name": "Tides Of Man"
+            "name": "Rigby"
           }
         ],
-        "track_title": "New Futures",
+        "track_title": "Headache",
         "track_index": 27
       },
       {
-        "album": "SYG Years",
+        "album": "Nothing New",
         "artists": [
           {
-            "name": "Hot Mulligan"
+            "name": "Intervention"
           }
         ],
-        "track_title": "Shaylee, Shanel",
+        "track_title": "Nothing New",
         "track_index": 28
       },
       {
-        "album": "Exposition I",
+        "album": "At Weddings",
         "artists": [
           {
-            "name": "Nova Charisma"
+            "name": "Tomberlin"
           }
         ],
-        "track_title": "Lies Animals Tell",
+        "track_title": "Tornado",
         "track_index": 29
       }
     ]
   },
   {
-    "index": 23,
+    "index": 21,
     "playlist_id": "200BHhcx5qwMcxtBbxE6RJ",
     "playlist_name": "punk /pəNGk/",
     "tracks": [
@@ -14031,7 +11963,7 @@
     ]
   },
   {
-    "index": 24,
+    "index": 22,
     "playlist_id": "2xdptPRCJXdb4Ezd9jRWOA",
     "playlist_name": "Manic Pixie Meme Girl",
     "tracks": [
@@ -15044,7 +12976,7 @@
     ]
   },
   {
-    "index": 25,
+    "index": 23,
     "playlist_id": "65EEKINtbY0LFA0qwDuYWo",
     "playlist_name": "▲",
     "tracks": [
@@ -16060,7 +13992,7 @@
     ]
   },
   {
-    "index": 26,
+    "index": 24,
     "playlist_id": "0THW9zdVfN5g08eaNTFiKL",
     "playlist_name": "Dreamin'",
     "tracks": [
@@ -16343,7 +14275,7 @@
     ]
   },
   {
-    "index": 27,
+    "index": 25,
     "playlist_id": "1TgkQltxz9FhVLpkfljeFN",
     "playlist_name": "☹",
     "tracks": [
@@ -17350,7 +15282,7 @@
     ]
   },
   {
-    "index": 28,
+    "index": 26,
     "playlist_id": "5ZNCD7xSkP5qLVnXYYVKA9",
     "playlist_name": "☀︎",
     "tracks": [
@@ -18125,7 +16057,7 @@
         "track_index": 76
       },
       {
-        "album": "Yours As Fast As Mine",
+        "album": "Yours as Fast as Mine",
         "artists": [
           {
             "name": "The Main Drag"
@@ -18135,7 +16067,7 @@
         "track_index": 77
       },
       {
-        "album": "Yours As Fast As Mine",
+        "album": "Yours as Fast as Mine",
         "artists": [
           {
             "name": "The Main Drag"
@@ -18357,7 +16289,7 @@
     ]
   },
   {
-    "index": 29,
+    "index": 27,
     "playlist_id": "1Huc0UJM5eWUCk6IZUmVus",
     "playlist_name": "☾",
     "tracks": [
@@ -18774,7 +16706,7 @@
     ]
   },
   {
-    "index": 30,
+    "index": 28,
     "playlist_id": "5SrGWJFwZRmg3GJ4VcTjsl",
     "playlist_name": "☇",
     "tracks": [

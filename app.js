@@ -1,4 +1,5 @@
 const inquirer = require('inquirer');
+// const fs = require('fs');
 const open = require('open');
 // const controller = require('./controllers/controller');
 const db = require('./db/index');
@@ -22,8 +23,6 @@ const readPlaylists = {
 
 // Global Variables
 let url;
-const userPlaylists = [];
-const parsedPlaylists = [];
 
 // Getting Spotify keys and create an initial url
 db.collection('spotify_credentials')
@@ -66,6 +65,8 @@ const processPlaylists = async ({url, headers, json}) => {
   }));
 };
 
+// A function that maps through the user's playlist objects,
+// calls the Spotify API, and builds track objects for each object
 const getTracks = async (url) => {
   const trackData = await processPlaylists(url);
   return Promise.all(trackData.map(async (playlist) => {
@@ -97,7 +98,13 @@ const savePlaylist = async ({playlist, db}) => {
 
 // Initial statup of the CLI app
 
-const startApp = () => {
+const startApp = async () => {
+  // console.log('Redirecting to Spotify');
+  // open('http://localhost:8888/login/', {app: 'google chrome'});
+  // const parsedPlaylist = await getTracks(url);
+  // fs.writeFileSync('playlist.json', JSON.stringify(parsedPlaylist, null, 2));
+  // console.log('💾 Playlists saved to a .json file 💾');
+
   inquirer.prompt(initalPrompts).then((answers) => {
     if (answers.initial === 'Login') {
       console.log('Redirecting to Spotify');
