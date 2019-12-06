@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+#secret keys
+config.js
+spotify-printer-firebase-adminsdk-qmfn5-6999e530f2.json
