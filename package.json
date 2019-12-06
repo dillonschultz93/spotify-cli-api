@@ -1,0 +1,24 @@
+{
+  "name": "spotify-cli-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:dillonschultz93/spotify-cli-api.git",
+  "author": "Dillon Schultz",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "eslint": "^6.5.1",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.6.1",
+    "inquirer": "^7.0.0",
+    "node-fetch": "^2.6.0",
+    "open": "^7.0.0",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.14.0"
+  }
+}
