@@ -121,6 +121,7 @@ const afterLogin = () => {
       console.log('Saving data to the database');
       const parsedPlaylist = await getTracks(url);
       // Save data to a .json file and to the database
+      // eslint-disable-next-line max-len
       fs.writeFileSync('playlist.json', JSON.stringify(parsedPlaylist, null, 2));
       await savePlaylist({playlists: parsedPlaylist, db});
       console.log('Saved 💾');
