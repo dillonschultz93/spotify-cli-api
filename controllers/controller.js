@@ -26,12 +26,6 @@ const controller = {
           headers: {'Authorization': 'Bearer ' + data.access_token},
           json: true,
         };
-        // callPlaylistAPI.test(playlistURL);
-        // return db.collection('user-playlists').doc('playlists').set({
-        //   user_playlists: callPlaylistAPI.readPlaylist(playlistURL),
-        // }).then(() => {
-        //   console.log('Playlists added to the database');
-        // });
       }
     }).catch((err) => {
       console.log('Error getting document', err);
