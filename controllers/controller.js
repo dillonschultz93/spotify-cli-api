@@ -1,5 +1,4 @@
 const db = require('../db/index');
-const config = require('../config/config');
 const callDate = require('./currentDate'); // Adds a timestamp to the database
 
 // Set controllers
