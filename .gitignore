@@ -63,6 +63,8 @@ typings/
 #secret keys
 config.js
 spotify-printer-firebase-adminsdk-s86gk-887fc96acb.json
+AuthKey_99WFR3A47V.p8
+jwt.js
 
 #data
 playlist.json
