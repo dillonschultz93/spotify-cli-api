@@ -2,7 +2,11 @@ const config = require('../config/config');
 const request = require('request');
 const querystring = require('querystring');
 const router = require('express').Router();
+const fs = require('fs');
+const jwt = require('jsonwebtoken'); // Library that signs JWT tokens
+
 const controller = require('../controllers/controller');
+const appleMusicToken = require('../config/jwt'); // Importing the signed JWT
 
 /**
  * Generates a random string containing numbers and letters
@@ -22,6 +26,19 @@ const generateRandomString = (length) => {
 
 // Setting up cookie state
 const stateKey = 'spotify_auth_state';
+
+// Setting up JWT for Apple Music
+const privateKey = fs.readFileSync(config.applePrivateKey).toString();
+
+const token = jwt.sign({}, privateKey, {
+  algorithm: 'ES256',
+  expiresIn: '180d',
+  issuer: config.teamID,
+  header: {
+    alg: 'ES256',
+    kid: config.kid,
+  },
+});
 
 // Setting up routes
 // Login Route
@@ -78,6 +95,12 @@ router.get('/callback', (req, res) => {
       }
     });
   }
+});
+
+// Apple Music Token GET Route
+router.get('/token', (req, res) => {
+  res.setHeader('Content-Type', 'application/json');
+  res.send(JSON.stringify({token: token}));
 });
 
 module.exports = router;
