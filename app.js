@@ -10,7 +10,7 @@ const initalPrompts = {
   type: 'list',
   name: 'initial',
   message: 'What do you want to do?',
-  choices: ['Sign in to Spotify', 'Exit'],
+  choices: ['Sign in to Spotify', 'Test Apple Music', 'Exit'],
 };
 
 const readPlaylists = {
@@ -95,16 +95,45 @@ const savePlaylist = async ({playlists, db}) => {
       .set({playlists});
 };
 
+// A function that returns a developer token
+const getDevToken = async () => {
+  // rp('http://localhost:8888/token/').then((res) => {
+  //   console.log(JSON.stringify(res, null, 2));
+  //   return res;
+  // });
+  const response = await rp('http://localhost:8888/token/');
+  console.log('getDevToken()');
+  return response;
+};
+
+const callAppleMusic = async () => {
+  const token = await getDevToken();
+  const appleURL = 'https://api.music.apple.com/v1/catalog/us/songs/203709340';
+  const appleHeaders = {Authorization: 'Bearer' + token};
+  const apiCall = rp({
+    url: appleURL,
+    headers: appleHeaders,
+    json: true,
+  });
+  console.log('callAppleMusic()');
+  console.log(apiCall);
+};
+
 // Initial statup of the CLI app
 
-const startApp = async () => {
+const startApp = () => {
   inquirer.prompt(initalPrompts).then((answers) => {
     if (answers.initial === 'Sign in to Spotify') {
       console.log('Redirecting to Spotify');
       console.log('----------------------');
       console.log('Return to this terminal after signing in');
       open('http://localhost:8888/login/', {app: 'google chrome'});
-      afterLogin();
+      afterSpotifyLogin();
+    } else if (answers.initial === 'Test Apple Music') {
+      console.log('Redirecting to Apple Music');
+      console.log('--------------------------');
+      open('http://localhost:8888/token/', {app: 'google chrome'});
+      callAppleMusic();
     } else {
       console.log('Goodbye!');
       return;
@@ -112,7 +141,7 @@ const startApp = async () => {
   });
 };
 
-const afterLogin = () => {
+const afterSpotifyLogin = () => {
   inquirer.prompt(readPlaylists).then(async (answers) => {
     if (answers.readPlaylists === 'Save my playlist data') {
       console.log('Fetching playlist data...');
