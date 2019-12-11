@@ -80,8 +80,4 @@ router.get('/callback', (req, res) => {
   }
 });
 
-router.get('/refresh_token', (req, res) => {
-
-});
-
 module.exports = router;
