@@ -100,7 +100,7 @@ router.get('/callback', (req, res) => {
 // Apple Music Token GET Route
 router.get('/token', (req, res) => {
   res.setHeader('Content-Type', 'application/json');
-  res.send(JSON.stringify({token: token}));
+  res.send(token);
 });
 
 module.exports = router;
