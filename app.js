@@ -53,6 +53,13 @@ const callSpotify = (passedURL, passedHeader, passedParsingOption) => {
   });
 };
 
+const callAppleMusic = (passedURL, passedHeader) => {
+  return rp({
+    url: passedURL,
+    headers: passedHeader,
+  });
+};
+
 // A function that makes a playlist object for each playlist that the user owns
 const processPlaylists = async ({url, headers, json}) => {
   const rawData = await callSpotify(url, headers, json);
@@ -97,32 +104,33 @@ const savePlaylist = async ({playlists, db}) => {
 
 // A function that returns a developer token
 const getDevToken = async () => {
-  // rp('http://localhost:8888/token/').then((res) => {
-  //   console.log(JSON.stringify(res, null, 2));
-  //   return res;
-  // });
-  const response = await rp('http://localhost:8888/token/');
-  console.log('getDevToken()');
-  return response;
+  try {
+    const response = await rp('http://localhost:8888/token/');
+    return response;
+  } catch (error) {
+    console.log(`Unable to get token`);
+    console.error(error);
+  }
 };
 
-const callAppleMusic = async () => {
-  const token = await getDevToken();
+const testAppleMusic = async () => {
+  const devToken = await getDevToken();
   const appleURL = 'https://api.music.apple.com/v1/catalog/us/songs/203709340';
-  const appleHeaders = {Authorization: 'Bearer' + token};
-  const apiCall = rp({
-    url: appleURL,
-    headers: appleHeaders,
-    json: true,
-  });
-  console.log('callAppleMusic()');
-  console.log(apiCall);
+  const appleHeaders = {Authorization: 'Bearer ' + devToken};
+
+  try {
+    const data = JSON.parse(await callAppleMusic(appleURL, appleHeaders));
+    console.log(JSON.stringify(data, null, 2));
+  } catch (error) {
+    console.log('Unable to contact the Apple Music API');
+    console.error(error);
+  }
 };
 
 // Initial statup of the CLI app
 
 const startApp = () => {
-  inquirer.prompt(initalPrompts).then((answers) => {
+  inquirer.prompt(initalPrompts).then(async (answers) => {
     if (answers.initial === 'Sign in to Spotify') {
       console.log('Redirecting to Spotify');
       console.log('----------------------');
@@ -133,7 +141,12 @@ const startApp = () => {
       console.log('Redirecting to Apple Music');
       console.log('--------------------------');
       open('http://localhost:8888/token/', {app: 'google chrome'});
-      callAppleMusic();
+      try {
+        testAppleMusic();
+      } catch (error) {
+        console.log('Error');
+        console.error('401 error');
+      }
     } else {
       console.log('Goodbye!');
       return;
